@@ -321,6 +321,8 @@ http://orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8
 http://dorf.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 tvg-name="RE eins TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/reeins.png",RE eins TV
 http://www.reeins.tv:1935/live/re1/playlist.m3u8
+#EXTINF:-1 tvg-name="Classica" tvg-id="" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kvf.png",KVF
+http://configuration.tn:8000/live/T1278/T1278/3850.ts
 #EXTINF:-1 tvg-name="Tirol TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tiroltv.png",Tirol TV
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 #EXTINF:-1 tvg-name="oe24 TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png",oe24 TV
