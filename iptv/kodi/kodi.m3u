@@ -887,3 +887,17 @@ http://zet.cdn.eurozet.pl/ZETPL1.mp3
 http://zet.cdn.eurozet.pl/ZETROK.mp3
 #EXTINF:-1 tvg-name="RMF FM" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rmffm.png",RMF FM
 http://195.150.20.243/RMFFM48
+#EXTINF:-1 tvg-id="Pro7.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/dh4rry/kodiAddons/master/plugin.video.7tv_live/resources/Pro7.png",Pro7
+http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=Pro7
+#EXTINF:-1 tvg-id="Kabel.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/dh4rry/kodiAddons/master/plugin.video.7tv_live/resources/Kabel1.png",Kabel1
+http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=Kabel1
+#EXTINF:-1 tvg-id="Sat1.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/dh4rry/kodiAddons/master/plugin.video.7tv_live/resources/SAT1.png",SAT1
+http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=SAT1
+#EXTINF:-1 tvg-id="Sixx.de" group-title="Filme / Serien" tvg-logo="https://raw.githubusercontent.com/dh4rry/kodiAddons/master/plugin.video.7tv_live/resources/SIXX.png",Sixx
+http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=SIXX
+#EXTINF:-1 tvg-id="prosiebenmaxx.de"  group-title="Nachrichten;Dokumentationen"  tvg-logo="https://raw.githubusercontent.com/dh4rry/kodiAddons/master/plugin.video.7tv_live/resources/prosiebenmaxx",7MAXX
+http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=prosiebenmaxx
+#EXTINF:-1 tvg-id="KabelEinsDoku.de"  group-title="Dokumentationen" tvg-logo="https://raw.githubusercontent.com/dh4rry/kodiAddons/master/plugin.video.7tv_live/resources/Kabel1Doku.png",Kabel1 Doku
+http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=Kabel1Doku
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-logo="https://raw.githubusercontent.com/dh4rry/kodiAddons/master/plugin.video.7tv_live/resources/SAT1Gold.png",SAT1 Gold
+http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=SAT1Gold
