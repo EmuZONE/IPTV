@@ -901,3 +901,6 @@ http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=prosiebenmaxx
 http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=Kabel1Doku
 #EXTINF:-1 tvg-id="Sat1Gold.de" tvg-logo="https://raw.githubusercontent.com/dh4rry/kodiAddons/master/plugin.video.7tv_live/resources/SAT1Gold.png",SAT1 Gold
 http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=SAT1Gold
+#EXTINF:-1 tvg-id="xGirlz PixXx" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/xGirlz.png",xGirlz PixXx
+http://worldofwarcry.de/xgirlz.m3u
+
