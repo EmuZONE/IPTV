@@ -1,598 +1,950 @@
  
           <item> 
-            <title>DE: ARD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4602.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:&amp;nbsp; ARD</link> 
+            <title>Germany [DE]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16532.ts&amp;streamtype=TSDOWNLOADER&amp;name=Germany [DE]</link> 
         </item> 
           <item> 
-            <title>DE: FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4591.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:&amp;nbsp; FOX</link> 
+            <title>13th Street DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3428.ts&amp;streamtype=TSDOWNLOADER&amp;name=13th Street DE</link> 
         </item> 
           <item> 
-            <title>DE: HISTORY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4592.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:&amp;nbsp; HISTORY</link> 
+            <title>13th Street FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14060.ts&amp;streamtype=TSDOWNLOADER&amp;name=13th Street FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: KABEL 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4593.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:&amp;nbsp; KABEL 1 HD</link> 
+            <title>3sat DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12341.ts&amp;streamtype=TSDOWNLOADER&amp;name=3sat DE</link> 
         </item> 
           <item> 
-            <title>DE: RTL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4595.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:&amp;nbsp; RTL HD</link> 
+            <title>3sat FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16497.ts&amp;streamtype=TSDOWNLOADER&amp;name=3sat FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: RTL Living HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4597.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:&amp;nbsp; RTL Living HD</link> 
+            <title>A&amp;E DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/13109.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E DE</link> 
         </item> 
           <item> 
-            <title>DE: RTL2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4594.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:&amp;nbsp; RTL2 HD</link> 
+            <title>A&amp;E FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14059.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: SAT1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4598.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:&amp;nbsp; SAT1 HD</link> 
+            <title>Animal Planet HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/9561.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animal Planet HD DE</link> 
         </item> 
           <item> 
-            <title>DE: Super RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4596.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:&amp;nbsp; Super RTL</link> 
+            <title>ANIXE DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3445.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIXE DE</link> 
         </item> 
           <item> 
-            <title>DE: VOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4599.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:&amp;nbsp; VOX HD</link> 
+            <title>ANIXE FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14576.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIXE FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: ZDF HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4600.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:&amp;nbsp; ZDF HD</link> 
+            <title>Arte FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16496.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arte FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: ProSieben MAXX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4590.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ProSieben MAXX HD</link> 
+            <title>Astro TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12339.ts&amp;streamtype=TSDOWNLOADER&amp;name=Astro TV DE</link> 
         </item> 
           <item> 
-            <title>DE: WDR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4601.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:WRD</link> 
+            <title>AXN DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/9562.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN DE</link> 
         </item> 
           <item> 
-            <title>DE: Discovery Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1650.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Discovery Channel</link> 
+            <title>AXN HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/17498.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD DE</link> 
         </item> 
           <item> 
-            <title>DE: Fox HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1645.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Fox HD Germany</link> 
+            <title>Boomerang DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12315.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang DE</link> 
         </item> 
           <item> 
-            <title>DE: History Channel HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1646.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: History Channel HD Germany</link> 
+            <title>BR Fernsehen Nord DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12322.ts&amp;streamtype=TSDOWNLOADER&amp;name=BR Fernsehen Nord DE</link> 
         </item> 
           <item> 
-            <title>DE: MGM HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MGM HD Germany</link> 
+            <title>BR Fernsehen Nord HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16495.ts&amp;streamtype=TSDOWNLOADER&amp;name=BR Fernsehen Nord HD DE</link> 
         </item> 
           <item> 
-            <title>DE: NatGeo Wild HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1643.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NatGeo Wild HD Germany</link> 
+            <title>Cartoon Network DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15565.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Network DE</link> 
         </item> 
           <item> 
-            <title>DE: RTL 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1639.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2 HD</link> 
+            <title>CLASSICA DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/9555.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLASSICA DE</link> 
         </item> 
           <item> 
-            <title>DE: RTL Nitro HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1648.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Nitro HD</link> 
+            <title>Comedy Central FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/17280.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Action HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1640.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Action HD Germany</link> 
+            <title>Das Erste FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16493.ts&amp;streamtype=TSDOWNLOADER&amp;name=Das Erste FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Bundesliga HD 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1647.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga HD 1</link> 
+            <title>Das Erste DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3451.ts&amp;streamtype=TSDOWNLOADER&amp;name=Das Erste DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Cinema&amp;nbsp; 24 HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1651.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema&amp;nbsp; 24 HD Germany</link> 
+            <title>Deluxe Music DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/9554.ts&amp;streamtype=TSDOWNLOADER&amp;name=Deluxe Music DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Krimi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1644.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Krimi</link> 
+            <title>Deluxe Music FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14057.ts&amp;streamtype=TSDOWNLOADER&amp;name=Deluxe Music FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Select 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1657.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 1 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: Sky Select 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1656.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 2 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: Sky Select 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1655.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 3 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Select 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1654.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY Select 4 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: Sky Select 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1653.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 5 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: Sky Select 6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1652.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 6 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: SyFy HD Deutschland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE: SyFy HD Deuts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SyFy HD Deutschland</link> 
+            <title>Deutsches Musik Fernsehen DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Deuts&amp;streamtype=TSDOWNLOADER&amp;name=Deutsches Musik Fernsehen DE</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1658.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12334.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>DE: ZDF infokanal HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1641.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF infokanal HD</link> 
+            <title>Discovery Channel FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14063.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: ZDF Neo HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1649.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Neo HD</link> 
+            <title>Discovery Channel HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3426.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel HD DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Cinema&amp;nbsp; 1 HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema&amp;nbsp; 1 HD Germany</link> 
+            <title>Disney Channel DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3622.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Cinema HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema HD Germany</link> 
+            <title>Disney Channel FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14056.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy</link> 
+            <title>Disney Cinemagic FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14312.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Cinemagic FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Comedy Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy Germany</link> 
+            <title>Disney Cinemagic DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/9548.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Cinemagic DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Emotion Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Emotion Germany</link> 
+            <title>Disney Junior DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/9549.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Hits HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE: Sky Hits&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Hits HD Germany</link> 
+            <title>Disney Junior HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15566.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior HD DE</link> 
+        </item> 
+          <item> 
+            <title>Disney XD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/9547.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD DE</link> 
+        </item> 
+          <item> 
+            <title>DMAX DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3431.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX DE</link> 
+        </item> 
+          <item> 
+            <title>E! HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15567.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! HD DE</link> 
+        </item> 
+          <item> 
+            <title>Eurosport 1 HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3435.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 HD DE</link> 
+        </item> 
+          <item> 
+            <title>Eurosport 2 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/9553.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 DE</link> 
+        </item> 
+          <item> 
+            <title>Eurosport 2 HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15568.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 HD DE</link> 
+        </item> 
+          <item> 
+            <title>Eurosport 2 Xtra HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/17281.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 Xtra HD DE</link> 
+        </item> 
+          <item> 
+            <title>Family TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/13108.ts&amp;streamtype=TSDOWNLOADER&amp;name=Family TV DE</link> 
+        </item> 
+          <item> 
+            <title>Folx TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12319.ts&amp;streamtype=TSDOWNLOADER&amp;name=Folx TV DE</link> 
+        </item> 
+          <item> 
+            <title>FOX FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14055.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX FHD DE</link> 
+        </item> 
+          <item> 
+            <title>FOX HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3425.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD DE</link> 
+        </item> 
+          <item> 
+            <title>FOX Series DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12294.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX Series DE</link> 
+        </item> 
+          <item> 
+            <title>Gute Laune TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/13110.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gute Laune TV DE</link> 
+        </item> 
+          <item> 
+            <title>Heimatkanal DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/9558.ts&amp;streamtype=TSDOWNLOADER&amp;name=Heimatkanal DE</link> 
+        </item> 
+          <item> 
+            <title>History DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3424.ts&amp;streamtype=TSDOWNLOADER&amp;name=History DE</link> 
+        </item> 
+          <item> 
+            <title>History FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14311.ts&amp;streamtype=TSDOWNLOADER&amp;name=History FHD DE</link> 
+        </item> 
+          <item> 
+            <title>hr-Fernsehen DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12316.ts&amp;streamtype=TSDOWNLOADER&amp;name=hr-Fernsehen DE</link> 
+        </item> 
+          <item> 
+            <title>JukeBox DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15579.ts&amp;streamtype=TSDOWNLOADER&amp;name=JukeBox DE</link> 
+        </item> 
+          <item> 
+            <title>Kabel Eins Classics DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16581.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kabel Eins Classics DE</link> 
+        </item> 
+          <item> 
+            <title>Kabel Eins FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/1649.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kabel Eins FHD DE</link> 
+        </item> 
+          <item> 
+            <title>KiKa DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/1648.ts&amp;streamtype=TSDOWNLOADER&amp;name=KiKa DE</link> 
+        </item> 
+          <item> 
+            <title>KiKA FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16492.ts&amp;streamtype=TSDOWNLOADER&amp;name=KiKA FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Kinowelt TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12291.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kinowelt TV DE</link> 
+        </item> 
+          <item> 
+            <title>MDR SACHSEN-ANHALT FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15750.ts&amp;streamtype=TSDOWNLOADER&amp;name=MDR SACHSEN-ANHALT FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Motorvision TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/9564.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motorvision TV DE</link> 
+        </item> 
+          <item> 
+            <title>MTV HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15759.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV HD DE</link> 
+        </item> 
+          <item> 
+            <title>n-tv DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3449.ts&amp;streamtype=TSDOWNLOADER&amp;name=n-tv DE</link> 
+        </item> 
+          <item> 
+            <title>n-tv FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14054.ts&amp;streamtype=TSDOWNLOADER&amp;name=n-tv FHD DE</link> 
+        </item> 
+          <item> 
+            <title>N24 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14573.ts&amp;streamtype=TSDOWNLOADER&amp;name=N24 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>N24 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3448.ts&amp;streamtype=TSDOWNLOADER&amp;name=N24 DE</link> 
+        </item> 
+          <item> 
+            <title>National Geographic Wild FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14062.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic Wild FHD DE</link> 
+        </item> 
+          <item> 
+            <title>National Geographic Wild HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/1646.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic Wild HD DE</link> 
+        </item> 
+          <item> 
+            <title>National Geographic DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3419.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic DE</link> 
+        </item> 
+          <item> 
+            <title>National Geographic FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14053.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic FHD DE</link> 
+        </item> 
+          <item> 
+            <title>NDR Fernsehen Schleswig-Holstein FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16488.ts&amp;streamtype=TSDOWNLOADER&amp;name=NDR Fernsehen Schleswig-Holstein FHD DE</link> 
+        </item> 
+          <item> 
+            <title>NDR HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3443.ts&amp;streamtype=TSDOWNLOADER&amp;name=NDR HD DE</link> 
+        </item> 
+          <item> 
+            <title>Nickelodeon FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14571.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Phoenix DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3454.ts&amp;streamtype=TSDOWNLOADER&amp;name=Phoenix DE</link> 
+        </item> 
+          <item> 
+            <title>Phoenix FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16487.ts&amp;streamtype=TSDOWNLOADER&amp;name=Phoenix FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Planet HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/18394.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planet HD DE</link> 
+        </item> 
+          <item> 
+            <title>Popcorn Select 1 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/18234.ts&amp;streamtype=TSDOWNLOADER&amp;name=Popcorn Select 1 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Popcorn Select 2 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/18235.ts&amp;streamtype=TSDOWNLOADER&amp;name=Popcorn Select 2 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Popcorn Select 3 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/18236.ts&amp;streamtype=TSDOWNLOADER&amp;name=Popcorn Select 3 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Popcorn Select 4 HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/18237.ts&amp;streamtype=TSDOWNLOADER&amp;name=Popcorn Select 4 HD DE</link> 
+        </item> 
+          <item> 
+            <title>Popcorn Select 5 HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/18238.ts&amp;streamtype=TSDOWNLOADER&amp;name=Popcorn Select 5 HD DE</link> 
+        </item> 
+          <item> 
+            <title>Popcorn Select 6 HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/18239.ts&amp;streamtype=TSDOWNLOADER&amp;name=Popcorn Select 6 HD DE</link> 
+        </item> 
+          <item> 
+            <title>ProSieben DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=ProSieben DE</link> 
+        </item> 
+          <item> 
+            <title>ProSieben FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14052.ts&amp;streamtype=TSDOWNLOADER&amp;name=ProSieben FHD DE</link> 
+        </item> 
+          <item> 
+            <title>ProSieben Maxx DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3444.ts&amp;streamtype=TSDOWNLOADER&amp;name=ProSieben Maxx DE</link> 
+        </item> 
+          <item> 
+            <title>ProSieben Maxx FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14051.ts&amp;streamtype=TSDOWNLOADER&amp;name=ProSieben Maxx FHD DE</link> 
+        </item> 
+          <item> 
+            <title>rbb Fernsehen Berlin FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15747.ts&amp;streamtype=TSDOWNLOADER&amp;name=rbb Fernsehen Berlin FHD DE</link> 
+        </item> 
+          <item> 
+            <title>rbb Fernsehen Brandenburg FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15754.ts&amp;streamtype=TSDOWNLOADER&amp;name=rbb Fernsehen Brandenburg FHD DE</link> 
+        </item> 
+          <item> 
+            <title>One FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15751.ts&amp;streamtype=TSDOWNLOADER&amp;name=One FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Regio TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12328.ts&amp;streamtype=TSDOWNLOADER&amp;name=Regio TV DE</link> 
+        </item> 
+          <item> 
+            <title>Romance TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/13111.ts&amp;streamtype=TSDOWNLOADER&amp;name=Romance TV DE</link> 
+        </item> 
+          <item> 
+            <title>RiC DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/18233.ts&amp;streamtype=TSDOWNLOADER&amp;name=RiC DE</link> 
+        </item> 
+          <item> 
+            <title>RTL Crime DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/1650.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL Crime DE</link> 
+        </item> 
+          <item> 
+            <title>RTL Crime HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15570.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL Crime HD DE</link> 
+        </item> 
+          <item> 
+            <title>RTL FS DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12300.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL FS DE</link> 
+        </item> 
+          <item> 
+            <title>RTL HB NDS DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12299.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL HB NDS DE</link> 
+        </item> 
+          <item> 
+            <title>RTL FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14049.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL FHD DE</link> 
+        </item> 
+          <item> 
+            <title>RTL HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3825.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL HD DE</link> 
+        </item> 
+          <item> 
+            <title>RTL II DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3826.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL II DE</link> 
+        </item> 
+          <item> 
+            <title>RTL II FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14050.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL II FHD DE</link> 
+        </item> 
+          <item> 
+            <title>RTL Living DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3202.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL Living DE</link> 
+        </item> 
+          <item> 
+            <title>RTL Nitro DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/1639.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL Nitro DE</link> 
+        </item> 
+          <item> 
+            <title>RTL Nitro FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14048.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL Nitro FHD DE</link> 
+        </item> 
+          <item> 
+            <title>RTL WEST DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12298.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL WEST DE</link> 
+        </item> 
+          <item> 
+            <title>RTL Passion DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/9563.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL Passion DE</link> 
+        </item> 
+          <item> 
+            <title>Silverline DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16501.ts&amp;streamtype=TSDOWNLOADER&amp;name=Silverline DE</link> 
+        </item> 
+          <item> 
+            <title>RTLplus DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12297.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTLplus DE</link> 
+        </item> 
+          <item> 
+            <title>SAT.1 Gold DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12309.ts&amp;streamtype=TSDOWNLOADER&amp;name=SAT.1 Gold DE</link> 
+        </item> 
+          <item> 
+            <title>SAT.1 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14047.ts&amp;streamtype=TSDOWNLOADER&amp;name=SAT.1 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>SAT.1 HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/1637.ts&amp;streamtype=TSDOWNLOADER&amp;name=SAT.1 HD DE</link> 
+        </item> 
+          <item> 
+            <title>SAT.1 NRW DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12308.ts&amp;streamtype=TSDOWNLOADER&amp;name=SAT.1 NRW DE</link> 
+        </item> 
+          <item> 
+            <title>ServusTV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12307.ts&amp;streamtype=TSDOWNLOADER&amp;name=ServusTV DE</link> 
+        </item> 
+          <item> 
+            <title>Sixx DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/9560.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sixx DE</link> 
+        </item> 
+          <item> 
+            <title>Sixx FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14046.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sixx FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky 1 HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/9557.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky 1 HD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Arts FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Arts FHD DE</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15573.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>DE: Sky Nostalgie Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nostalgie Germany</link> 
+            <title>Sky Atlantic FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14306.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Sport HD 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport HD 1</link> 
+            <title>Sky Atlantic DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/1645.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Sport HD 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport HD 2</link> 
+            <title>Sky Cinema +1 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3434.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema +1 DE</link> 
         </item> 
           <item> 
-            <title>DE: TNT Film TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Film TCM</link> 
+            <title>Sky Cinema +1 HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15574.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema +1 HD DE</link> 
         </item> 
           <item> 
-            <title>DE: TNT Serie HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Serie HD</link> 
+            <title>Sky Cinema +24 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/1633.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema +24 DE</link> 
         </item> 
           <item> 
-            <title>DE: ZDF HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF HD</link> 
+            <title>Sky Cinema +24 HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15575.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema +24 HD DE</link> 
         </item> 
           <item> 
-            <title>DE: 13th Street (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1974.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : 13th Street (DE)</link> 
+            <title>Sky Action FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14307.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Action FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: 3 SAT (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1973.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : 3 SAT (DE)</link> 
+            <title>Sky Action DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3432.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Action DE</link> 
         </item> 
           <item> 
-            <title>DE: ANIXE (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1972.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : ANIXE (DE)</link> 
+            <title>Sky Cinema DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/1634.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema DE</link> 
         </item> 
           <item> 
-            <title>DE: ARD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1971.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : ARD (DE)</link> 
+            <title>Sky Family FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15576.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Family FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: Arte (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1970.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Arte (DE)</link> 
+            <title>Sky Cinema FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14061.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: AUGSBURG TV (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1969.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : AUGSBURG TV (DE)</link> 
+            <title>Sky Cinema HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3420.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema HD DE</link> 
         </item> 
           <item> 
-            <title>DE: AXN HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1968.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : AXN HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: BBC WORLD News (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1967.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : BBC WORLD News (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: BEATE-UHSE.TV (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1966.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : BEATE-UHSE.TV (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Classica (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1965.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Classica (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: CNBC (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1964.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : CNBC (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: CNN (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1963.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : CNN (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Discovery Channel (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1962.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Discovery Channel (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Discovery HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1961.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Discovery HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Disney Cinemagic (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1960.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Disney Cinemagic (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Disney Junior (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1959.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Disney Junior (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Disney XD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1958.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Disney XD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: DMAX&amp;nbsp; (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1957.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : DMAX&amp;nbsp; (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: DW (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1956.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : DW (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Eurosport 1 (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1955.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Eurosport 1 (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Eurosport 1 HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1954.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Eurosport 1 HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: FOLX (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1953.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : FOLX (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Fox HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1952.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Fox HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: FOX NEWS (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : FOX NEWS (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Fox Serie (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1950.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Fox Serie (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Fundorado TV (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1949.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Fundorado TV (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Heimatkanal (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1948.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Heimatkanal (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: History (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1947.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : History (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: History HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1946.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : History HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: HOT XXX (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1945.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : HOT XXX (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Insight UHD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1944.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Insight UHD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Junior (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1943.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Junior (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Juwelo TV (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1942.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Juwelo TV (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: kabel eins (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1941.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : kabel eins (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: KiKA (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1940.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : KiKA (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: KINOWELT TV (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1939.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : KINOWELT TV (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: MCM POP (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1938.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : MCM POP (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: MGM HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1937.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : MGM HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: MOTORS TV (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1936.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : MOTORS TV (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: N-TV (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1935.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : N-TV (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: N24 (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1934.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : N24 (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Nat Geo Wild HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1933.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Nat Geo Wild HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: NatGeo HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1932.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : NatGeo HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: NatGeo Wild (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1931.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : NatGeo Wild (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: National Geographic (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1930.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : National Geographic (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Ndr HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1929.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Ndr HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Nickelodeon HD (ES)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1928.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Nickelodeon HD (ES)</link> 
-        </item> 
-          <item> 
-            <title>DE: ORF 2 (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1927.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : ORF 2 (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: PLAYBOY TV (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1926.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : PLAYBOY TV (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Pro 7 (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1925.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Pro 7 (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Pro7 MAXX (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1924.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Pro7 MAXX (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: ProSieben (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1923.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : ProSieben (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: QVC Deutschland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE : QVC Deuts&amp;streamtype=TSDOWNLOADER&amp;name=DE : QVC Deutschland</link> 
-        </item> 
-          <item> 
-           <title><color red>1922</color></title>
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1922.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>DE : QVC Plus Deutschland (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE : QVC Plus Deuts&amp;streamtype=TSDOWNLOADER&amp;name=DE : QVC Plus Deutschland (DE)</link> 
-        </item> 
-          <item> 
-            <title><color red>1922</color></title>
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1921.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>DE: RIC (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1920.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : RIC (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: RTL Crime (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1919.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : RTL Crime (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: RTL Passion (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1918.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : RTL Passion (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: RTL Television (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1917.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : RTL Television (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: RTL2 (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1916.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : RTL2 (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: RTLNITRO (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1915.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : RTLNITRO (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: RTLplus (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1914.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : RTLplus (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SAT.1 (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1913.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SAT.1 (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SAT.1 Gold (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1912.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SAT.1 Gold (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: Sky Action HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1911.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Sky Action HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Atlantic (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1910.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Atlantic (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Atlantic HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1909.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Atlantic HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Cinema&amp;nbsp;&amp;nbsp; 1 (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1908.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Cinema&amp;nbsp;&amp;nbsp; 1 (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Cinema&amp;nbsp;&amp;nbsp; 24 (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1907.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Cinema&amp;nbsp;&amp;nbsp; 24 (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Cinema&amp;nbsp; 1 HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1906.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Cinema&amp;nbsp; 1 HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Cinema&amp;nbsp; 24 HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1905.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Cinema&amp;nbsp; 24 HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Cinema (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1904.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Cinema (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Cinema Action (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1903.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Cinema Action (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Cinema Action HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1902.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Cinema Action HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Cinema Comedy (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1901.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Cinema Comedy (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Cinema Emotion (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1900.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Cinema Emotion (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Cinema Family (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1899.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Cinema Family (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Cinema HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1898.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Cinema HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Cinema Hits (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE : SKY Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Cinema Hits (DE)</link> 
-        </item> 
-          <item> 
-            <title><color red>1922</color></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1897.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Cinema Hits HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE : SKY Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Cinema Hits HD (DE)</link> 
+            <title>Sky Hits FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Hits&amp;streamtype=TSDOWNLOADER&amp;name=Sky Hits FHD DE</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1896.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14305.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>DE: SKY Cinema Nostalgie (DE)</title>
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1895.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Cinema Nostalgie (DE)</link> 
+            <title>Sky Comedy DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3430.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Comedy DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky DMAX (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1894.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Sky DMAX (DE)</link> 
+            <title>Sky Emotion DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/1631.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Emotion DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Emotion (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1893.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Sky Emotion (DE)</link> 
+            <title>Sky Krimi DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3429.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Krimi DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Hits (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE : Sky Hits&amp;streamtype=TSDOWNLOADER&amp;name=DE : Sky Hits (DE)</link> 
+            <title>Sky Nostalgie DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/9556.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Nostalgie DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Select 1 Live DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/11265.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 1 Live DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Select 2 Live DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/11266.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 2 Live DE</link> 
+        </item> 
+          <item> 
+            <title>E! DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16502.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Select 3 Live DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/11267.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 3 Live DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Select 4 Live DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/11268.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 4 Live DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Select 5 Live DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/11269.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 5 Live DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Select 6 Live DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/11270.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 6 Live DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Select 7 Live DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/11271.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 7 Live DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Select 8 Live DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/11272.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 8 Live DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Select 9 Live DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12290.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 9 Live DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 1 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14559.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 1 HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/1479.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 HD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 1 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7326.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 10 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7335.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 10 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 11 HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7336.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 11 HD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 2 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14560.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 2 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 2 HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/1480.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 2 HD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 2 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7327.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 2 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 3 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14561.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 3 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 3 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7328.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 3 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 4 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14562.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 4 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 4 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7329.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 4 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 5 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14563.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 5 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 5 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7330.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 5 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 6 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14564.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 6 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 6 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7331.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 6 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 7 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14565.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 7 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 7 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7332.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 7 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 8 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14566.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 8 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 8 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7333.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 8 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 9 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14567.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 9 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 9 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7334.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 9 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport Austria DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/9551.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Austria DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport Austria HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15578.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Austria HD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 1 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14550.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 1 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 1 HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3436.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 1 HD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 1 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7338.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 1 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 10 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14558.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 10 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 10 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7347.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 10 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 2 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14551.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 2 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 2 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7339.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 2 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 3 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14552.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 3 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 3 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7340.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 3 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 4 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14553.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 4 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 4 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7341.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 4 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 5 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14554.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 5 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 5 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7342.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 5 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 6 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14555.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 6 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 6 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7343.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 6 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 7 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7344.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 7 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 8 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14556.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 8 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 8 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7345.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 8 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 9 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14557.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 9 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 9 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7346.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 9 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport News DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14577.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport News DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport News HD VIP DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/7337.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport News HD VIP DE</link> 
+        </item> 
+          <item> 
+            <title>Sony TV HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3447.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sony TV HD DE</link> 
+        </item> 
+          <item> 
+            <title>Spiegel Geschichte DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3621.ts&amp;streamtype=TSDOWNLOADER&amp;name=Spiegel Geschichte DE</link> 
+        </item> 
+          <item> 
+            <title>Spiegel TV Wissen FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14045.ts&amp;streamtype=TSDOWNLOADER&amp;name=Spiegel TV Wissen FHD DE</link> 
+        </item> 
+          <item> 
+            <title>SPORT1 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/9552.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT1 DE</link> 
+        </item> 
+          <item> 
+            <title>SPORT1 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15745.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT1 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>sportdigital DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3841.ts&amp;streamtype=TSDOWNLOADER&amp;name=sportdigital DE</link> 
+        </item> 
+          <item> 
+            <title>sportdigital FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16582.ts&amp;streamtype=TSDOWNLOADER&amp;name=sportdigital FHD DE</link> 
+        </item> 
+          <item> 
+            <title>SR Fernsehen FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15749.ts&amp;streamtype=TSDOWNLOADER&amp;name=SR Fernsehen FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Super RTL DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3456.ts&amp;streamtype=TSDOWNLOADER&amp;name=Super RTL DE</link> 
+        </item> 
+          <item> 
+            <title>Super RTL FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14044.ts&amp;streamtype=TSDOWNLOADER&amp;name=Super RTL FHD DE</link> 
+        </item> 
+          <item> 
+            <title>SWR BW FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16486.ts&amp;streamtype=TSDOWNLOADER&amp;name=SWR BW FHD DE</link> 
+        </item> 
+          <item> 
+            <title>SWR DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12296.ts&amp;streamtype=TSDOWNLOADER&amp;name=SWR DE</link> 
+        </item> 
+          <item> 
+            <title>Syfy DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3204.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy DE</link> 
+        </item> 
+          <item> 
+            <title>Syfy FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14043.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy FHD DE</link> 
+        </item> 
+          <item> 
+            <title>tagesschau24 FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15752.ts&amp;streamtype=TSDOWNLOADER&amp;name=tagesschau24 FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Tele 5 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12325.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tele 5 DE</link> 
+        </item> 
+          <item> 
+            <title>TLC DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12324.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC DE</link> 
+        </item> 
+          <item> 
+            <title>TLC FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15757.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC FHD DE</link> 
+        </item> 
+          <item> 
+            <title>TNT Comedy HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15577.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT Comedy HD DE</link> 
+        </item> 
+          <item> 
+            <title>TNT Film DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3422.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT Film DE</link> 
+        </item> 
+          <item> 
+            <title>TNT Serie DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3421.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT Serie DE</link> 
+        </item> 
+          <item> 
+            <title>TNT Serie FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14303.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT Serie FHD DE</link> 
+        </item> 
+          <item> 
+            <title>TOGGO plus DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12323.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOGGO plus DE</link> 
+        </item> 
+          <item> 
+            <title>Universal Channel HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3439.ts&amp;streamtype=TSDOWNLOADER&amp;name=Universal Channel HD DE</link> 
+        </item> 
+          <item> 
+            <title>Comedy Central DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12317.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central DE</link> 
+        </item> 
+          <item> 
+            <title>VOX FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/14291.ts&amp;streamtype=TSDOWNLOADER&amp;name=VOX FHD DE</link> 
+        </item> 
+          <item> 
+            <title>VOX HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/1630.ts&amp;streamtype=TSDOWNLOADER&amp;name=VOX HD DE</link> 
+        </item> 
+          <item> 
+            <title>WDR DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3442.ts&amp;streamtype=TSDOWNLOADER&amp;name=WDR DE</link> 
+        </item> 
+          <item> 
+            <title>Welt der Wunder DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12305.ts&amp;streamtype=TSDOWNLOADER&amp;name=Welt der Wunder DE</link> 
+        </item> 
+          <item> 
+            <title>ZDF DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/1629.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZDF DE</link> 
+        </item> 
+          <item> 
+            <title>ZDF HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16484.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZDF HD DE</link> 
+        </item> 
+          <item> 
+            <title>ZDFinfo DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/12295.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZDFinfo DE</link> 
+        </item> 
+          <item> 
+            <title>ZDFneo DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/3453.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZDFneo DE</link> 
+        </item> 
+          <item> 
+            <title>ZDFneo FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16482.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZDFneo FHD DE</link> 
+        </item> 
+          <item> 
+            <title>ZDFinfo FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16483.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZDFinfo FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Zee One DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/13112.ts&amp;streamtype=TSDOWNLOADER&amp;name=Zee One DE</link> 
+        </item> 
+          <item> 
+            <title>Zee One FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/15748.ts&amp;streamtype=TSDOWNLOADER&amp;name=Zee One FHD DE</link> 
+        </item> 
+          <item> 
+            <title>MÃ¼nchen TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/11659.ts&amp;streamtype=TSDOWNLOADER&amp;name=MÃ¼nchen TV DE</link> 
+        </item> 
+          <item> 
+            <title>FC Bayern FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16767.ts&amp;streamtype=TSDOWNLOADER&amp;name=FC Bayern FHD DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Hits DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Hits&amp;streamtype=TSDOWNLOADER&amp;name=Sky Hits DE</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1892.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16803.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>DE: SKY Krimi (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1891.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Krimi (DE)</link> 
+            <title>Spiegel Geschichte HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16573.ts&amp;streamtype=TSDOWNLOADER&amp;name=Spiegel Geschichte HD DE</link> 
         </item> 
           <item> 
-            <title>DE: SKY NEWS (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1890.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY NEWS (DE)</link> 
+            <title>Sat. 1 Emotions DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16836.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sat. 1 Emotions DE</link> 
         </item> 
           <item> 
-            <title>DE: SKY Select (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1889.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Select (DE)</link> 
+            <title>ProSieben Fun HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16627.ts&amp;streamtype=TSDOWNLOADER&amp;name=ProSieben Fun HD DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Select 1 HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1888.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : Sky Select 1 HD (DE)</link> 
+            <title>TNT Film FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/16628.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT Film FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: SKY Sport 1 (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1887.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Sport 1 (DE)</link> 
+            <title>Sport 1+ FHD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/17166.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport 1+ FHD DE</link> 
         </item> 
           <item> 
-            <title>DE: SKY Sport 1 HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1886.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Sport 1 HD (DE)</link> 
+            <title>Kabel Eins Doku DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/17167.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kabel Eins Doku DE</link> 
         </item> 
           <item> 
-            <title>DE: SKY Sport 2 (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1885.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Sport 2 (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Sport 2 HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1884.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Sport 2 HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Sport 3 (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1883.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Sport 3 (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Sport 3 HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1882.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Sport 3 HD (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Sport 4 (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1881.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Sport 4 (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Sport Austria (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1880.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Sport Austria (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Sport Bundesliga 1 (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1879.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Sport Bundesliga 1 (DE)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Sport Bundesliga 1 HD (DE)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://visual.dyndns.tv:8100/live/carvalho/carvalho/1878.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE : SKY Sport Bundesliga 1 HD (DE)</link> 
+            <title>DW English DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/ollie/1234/17300.ts&amp;streamtype=TSDOWNLOADER&amp;name=DW English DE</link> 
         </item> 
   
