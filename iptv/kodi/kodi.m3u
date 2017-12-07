@@ -9,7 +9,7 @@ https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-p.m3u8
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name="ServusTV HD" tvg-id="ServusHD.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD
 https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master_fbr2192.m3u8
-#EXTINF:-1 tvg-name="ORF 2" tvg-id="orf2.orf" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/orf2hd.png",ORF 2
+#EXTINF:-1 tvg-name="ORF2 HD" tvg-id="orf2.orf" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/orf2hd.png",ORF 2
 http://orf2.orf.cdn.ors.at/orf2/q6a.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-name="Welt der Wunder" tvg-id="WeltDerWunder.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",Welt der Wunder
 http://live.vidoo.de/live/weltderwunder/master.m3u8
