@@ -1,45 +1,45 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="[COLOR royalblue]Das Erste[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/daserste.png" group-title="Vollprogramm",Das Erste
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/daserste.png" group-title="Vollprogramm",Das Erste
 https://daserstelive-lh.akamaihd.net/i/daserste_de@38086/index_2692_av-p.m3u8
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="[COLOR royalblue]ZDF HD[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/zdfhd.png" group-title="Vollprogramm",ZDF HD
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/zdfhd.png" group-title="Vollprogramm",ZDF HD
 http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-p.m3u8
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="[COLOR royalblue]3sat[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/3sat.png" group-title="Vollprogramm",3sat
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/3sat.png" group-title="Vollprogramm",3sat
 https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-p.m3u8
-#EXTINF:-1 tvg-id="ARTE.de" tvg-name="[COLOR royalblue]ARTE HD[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/artehd.png" group-title="Vollprogramm",ARTE HD
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/artehd.png" group-title="Vollprogramm",ARTE HD
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="ServusHD.de" tvg-name="[COLOR royalblue]ServusTV HD[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/servustvhd.png" group-title="Spartenprogramm",ServusTV HD
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-name="ServusTV HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/servustvhd.png" group-title="Spartenprogramm",ServusTV HD
 https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master_fbr2192.m3u8
-#EXTINF:-1 tvg-id="orf2.orf" tvg-name="[COLOR royalblue]ORF2 HD[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/orf2hd.png" group-title="Spartenprogramm",ORF 2
+#EXTINF:-1 tvg-id="orf2.orf" tvg-name="ORF2 HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/orf2hd.png" group-title="Spartenprogramm",ORF 2
 http://orf2.orf.cdn.ors.at/orf2/q6a.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="[COLOR royalblue]Welt der Wunder[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/weltderwunder.png" group-title="Spartenprogramm",Welt der Wunder
+#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/weltderwunder.png" group-title="Spartenprogramm",Welt der Wunder
 http://live.vidoo.de/live/weltderwunder/master.m3u8
-#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="[COLOR royalblue]ARD-alpha[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ardalpha.png" group-title="Spartenprogramm",ARD-alpha
+#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="ARD-alpha" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ardalpha.png" group-title="Spartenprogramm",ARD-alpha
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-id="One.de" tvg-name="[COLOR royalblue]one HD[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/onehd.png" group-title="Spartenprogramm",one HD
+#EXTINF:-1 tvg-id="One.de" tvg-name="one HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/onehd.png" group-title="Spartenprogramm",one HD
 http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_7_av-p.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="[COLOR royalblue]ZDFneo[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/zdfneo.png" group-title="Spartenprogramm",ZDFneo
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/zdfneo.png" group-title="Spartenprogramm",ZDFneo
 http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/index_3096_av-p.m3u8
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="[COLOR royalblue]ZDFinfo[/COLOR]" tvg-shift="2" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/zdfinfo.png" group-title="Spartenprogramm",ZDFinfo
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-shift="2" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/zdfinfo.png" group-title="Spartenprogramm",ZDFinfo
 http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/index_3096_av-p.m3u8
-#EXTINF:-1 tvg-id="AnixeSerie.de" tvg-name="[COLOR royalblue]ANIXE HD[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/anixehd.png" group-title="Spartenprogramm",ANIXE HD
+#EXTINF:-1 tvg-id="AnixeSerie.de" tvg-name="ANIXE HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/anixehd.png" group-title="Spartenprogramm",ANIXE HD
 http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
-#EXTINF:-1 tvg-id="Blizz.de" tvg-name="[COLOR royalblue]blizz TV[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/blizztv.png" group-title="Filme / Serien",blizz TV
+#EXTINF:-1 tvg-id="Blizz.de" tvg-name="blizz TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/blizztv.png" group-title="Filme / Serien",blizz TV
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
-#EXTINF:-1 tvg-id="FamilyTV.de" tvg-name="[COLOR royalblue]Family TV[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/familytv.png" group-title="Filme / Serien",Family TV
+#EXTINF:-1 tvg-id="FamilyTV.de" tvg-name="Family TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/familytv.png" group-title="Filme / Serien",Family TV
 http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
-#EXTINF:-1 tvg-id="RiC.de" tvg-name="[COLOR royalblue]eoTV HD[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/eotvhd.png" group-title="Filme / Serien",eoTV HD
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="eoTV HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/eotvhd.png" group-title="Filme / Serien",eoTV HD
 http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
-#EXTINF:-1 tvg-id="RiC.de" tvg-name="[COLOR royalblue]RiC / eoTV[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ric.png" group-title="Filme / Serien;Kinder / Jugend",RiC / eoTV
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC / eoTV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ric.png" group-title="Filme / Serien;Kinder / Jugend",RiC / eoTV
 https://58b42f6c8c9bf.streamlock.net/live/rictv/playlist.m3u8
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="[COLOR royalblue]KiKA[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/kika.png" group-title="Kinder / Jugend",KiKA
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/kika.png" group-title="Kinder / Jugend",KiKA
 https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-id="Nick.de" tvg-name="[COLOR royalblue]Nickelodeon[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/nickelodeon.png" group-title="Kinder / Jugend",Nickelodeon
+#EXTINF:-1 tvg-id="Nick.de" tvg-name="Nickelodeon" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/nickelodeon.png" group-title="Kinder / Jugend",Nickelodeon
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
-#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="[COLOR royalblue]MTV Germany[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/mtvgermany.png" group-title="Musik",MTV Germany
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV Germany" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/mtvgermany.png" group-title="Musik",MTV Germany
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8
-#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="[COLOR royalblue]DELUXE MUSIC[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/deluxemusic.png" group-title="Musik",DELUXE MUSIC
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DELUXE MUSIC" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/deluxemusic.png" group-title="Musik",DELUXE MUSIC
 http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR royalblue]nice[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/nice.png" group-title="Musik",nice
+#EXTINF:-1 tvg-id="" tvg-name="nice" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/nice.png" group-title="Musik",nice
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:4195-mbr.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FolxTV.de" tvg-name="Folx TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/folxtv.png" group-title="Musik",Folx TV
 http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
