@@ -1,0 +1,891 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="[COLOR royalblue]Das Erste[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/daserste.png" group-title="Vollprogramm",Das Erste
+https://daserstelive-lh.akamaihd.net/i/daserste_de@38086/index_2692_av-p.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="[COLOR royalblue]ZDF HD[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/zdfhd.png" group-title="Vollprogramm",ZDF HD
+http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="[COLOR royalblue]3sat[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/3sat.png" group-title="Vollprogramm",3sat
+https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-p.m3u8
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="[COLOR royalblue]ARTE HD[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/artehd.png" group-title="Vollprogramm",ARTE HD
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-name="[COLOR royalblue]ServusTV HD[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/servustvhd.png" group-title="Spartenprogramm",ServusTV HD
+https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master_fbr2192.m3u8
+#EXTINF:-1 tvg-id="orf2.orf" tvg-name="[COLOR royalblue]ORF2 HD[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/orf2hd.png" group-title="Spartenprogramm",ORF 2
+http://orf2.orf.cdn.ors.at/orf2/q6a.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="[COLOR royalblue]Welt der Wunder[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/weltderwunder.png" group-title="Spartenprogramm",Welt der Wunder
+http://live.vidoo.de/live/weltderwunder/master.m3u8
+#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="[COLOR royalblue]ARD-alpha[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ardalpha.png" group-title="Spartenprogramm",ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="One.de" tvg-name="[COLOR royalblue]one HD[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/onehd.png" group-title="Spartenprogramm",one HD
+http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_7_av-p.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="[COLOR royalblue]ZDFneo[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/zdfneo.png" group-title="Spartenprogramm",ZDFneo
+http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="[COLOR royalblue]ZDFinfo[/COLOR]" tvg-shift="2" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/zdfinfo.png" group-title="Spartenprogramm",ZDFinfo
+http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-id="AnixeSerie.de" tvg-name="[COLOR royalblue]ANIXE HD[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/anixehd.png" group-title="Spartenprogramm",ANIXE HD
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
+#EXTINF:-1 tvg-id="Blizz.de" tvg-name="[COLOR royalblue]blizz TV[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/blizztv.png" group-title="Filme / Serien",blizz TV
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
+#EXTINF:-1 tvg-id="FamilyTV.de" tvg-name="[COLOR royalblue]Family TV[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/familytv.png" group-title="Filme / Serien",Family TV
+http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="[COLOR royalblue]eoTV HD[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/eotvhd.png" group-title="Filme / Serien",eoTV HD
+http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="[COLOR royalblue]RiC / eoTV[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ric.png" group-title="Filme / Serien;Kinder / Jugend",RiC / eoTV
+https://58b42f6c8c9bf.streamlock.net/live/rictv/playlist.m3u8
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="[COLOR royalblue]KiKA[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/kika.png" group-title="Kinder / Jugend",KiKA
+https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="Nick.de" tvg-name="[COLOR royalblue]Nickelodeon[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/nickelodeon.png" group-title="Kinder / Jugend",Nickelodeon
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="[COLOR royalblue]MTV Germany[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/mtvgermany.png" group-title="Musik",MTV Germany
+http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="[COLOR royalblue]DELUXE MUSIC[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/deluxemusic.png" group-title="Musik",DELUXE MUSIC
+http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR royalblue]nice[/COLOR]" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/nice.png" group-title="Musik",nice
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:4195-mbr.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="FolxTV.de" tvg-name="Folx TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/folxtv.png" group-title="Musik",Folx TV
+http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Sonnenklar.TV" tvg-name="Sonnenklar.TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/emuzone/iptv/master/logos/tv/sonnenklartv.png" group-title="Vollprogramm",Sonnenklar TV
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/deutschesmusikfernsehen.png" group-title="Musik",Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/tagesschau24.png" group-title="Nachrichten",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ntv.png" group-title="Nachrichten;Dokumentationen",n-tv
+http://p.live.akamai.n-tv.de/hls-live/ntvlive/ntvlive_1500.m3u8
+#EXTINF:-1 tvg-id="n24.de" tvg-name="N24" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/n24.png" group-title="Nachrichten;Dokumentationen",N24
+http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="phoenix" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/phoenix.png" group-title="Nachrichten",phoenix
+https://zdf0910-lh.akamaihd.net/i/de09_v1@392871/index_1496_av-p.m3u8
+#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/skysportnewshd.png" group-title="Nachrichten;Sport",Sky Sport News HD
+https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
+#EXTINF:-1 tvg-id="BibelTV.de" tvg-name="Bibel TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/bibeltv.png" group-title="Religion",Bibel TV
+http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="KTV.de" tvg-name="K-TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ktv.png" group-title="Religion",K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-id="EWTN.de" tvg-name="EWTN katholisches TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ewtnkatholischestv.png" group-title="Religion",EWTN katholisches TV
+http://ewtn-hs.mi-cdn.io/ewtn-live-7/_definst_/smil:gerg.smil/chunklist_b900000.m3u8
+#EXTINF:-1 tvg-id="ERFeins.de" tvg-name="ERF 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/erf1.png" group-title="Religion",ERF 1
+http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/chunklist_w1563145417_b240000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="health.tv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/healthtv.png" group-title="Sonstiges",health.tv
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VISIT-X.tv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/visitxtv.png" group-title="Sonstiges",VISIT-X.tv
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="123.tv.de" tvg-name="1-2-3.tv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/123tv.png" group-title="Teleshopping",1-2-3.tv
+http://123tv.cdn.ses-ps.com/stream070101/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="pearl.tv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/pearltv.png" group-title="Teleshopping",pearl.tv
+http://enstyle.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1 tvg-id="QVC.de" tvg-name="QVC" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/qvc.png" group-title="Teleshopping",QVC
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/bitrate1-audio_track=64000-video=1500000.m3u8?DVR
+#EXTINF:-1 tvg-id="QVCPlus.de" tvg-name="QVC PLUS" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/qvcplus.png" group-title="Teleshopping",QVC PLUS
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/bitrate1-audio_track=64000-video=1500000.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="QVC Beauty & Style" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/qvcbeautystyle.png" group-title="Teleshopping",QVC Beauty & Style
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/bitrate1-audio_track=64000-video=1500000.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="Genius Plus TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/geniusplustv.png" group-title="Teleshopping",Genius Plus TV
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/wdrhd.png" group-title="Regional",WDR HD
+http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="SWR.de" tvg-name="SWR Baden-Würrtemberg HD " tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/swrhd.png" group-title="Regional",SWR Baden-Würrtemberg HD 
+https://swrbw-lh.akamaihd.net/i/swrbw_live@196738/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-id="SWR-rp.de" tvg-name="SWR Rheinland-Pfalz HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/swrhd.png" group-title="Regional",SWR Rheinland-Pfalz HD
+https://swrrp-lh.akamaihd.net/i/swrrp_live@196739/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR Niedersachsen HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ndrhd.png" group-title="Regional",NDR Niedersachsen HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR Schleswig-Holstein HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ndrhd.png" group-title="Regional",NDR Schleswig-Holstein HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR Mecklenburg-Vorpommern HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ndrhd.png" group-title="Regional",NDR Mecklenburg-Vorpommern HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR Hamburg HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ndrhd.png" group-title="Regional",NDR Hamburg HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen Nord HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/brhd.png" group-title="Regional",BR Fernsehen Nord HD
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen Süd HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/brhd.png" group-title="Regional",BR Fernsehen Süd HD
+https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="MDR Sachsen HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/mdrhd.png" group-title="Regional",MDR Sachsen HD
+http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="MDRS-Anhalt.de" tvg-name="MDR Sachsen-Anhalt HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/mdrhd.png" group-title="Regional",MDR Sachsen-Anhalt HD
+http://mdrsahls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@513999/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="MDRThuringen.de" tvg-name="MDR Thüringen HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/mdrhd.png" group-title="Regional",MDR Thüringen HD
+http://mdrthuhls-lh.akamaihd.net/i/livetvmdrthueringen_de@514027/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="HR.de" tvg-name="hr-fernsehen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/hr.png" group-title="Regional",hr-fernsehen
+http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="rbb Berlin HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/rbbhd.png" group-title="Regional",rbb Berlin HD
+https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_8_av-p.m3u8
+#EXTINF:-1 tvg-id="rbbBrandenburg.de" tvg-name="rbb Brandenburg HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/rbbhd.png" group-title="Regional",rbb Brandenburg HD
+https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_8_av-p.m3u8
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Fernsehen HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/srhd.png" group-title="Regional",SR Fernsehen HD
+http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-p.m3u8
+#EXTINF:-1 tvg-id="DeutscheWelleDE.de" tvg-name="Deutsche Welle" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/deutschewelle.png" group-title="Regional",Deutsche Welle
+https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="DeutscheWelleEN.de" tvg-name="Deutsche Welle (EN)" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/deutschewelle.png" group-title="Regional",Deutsche Welle (EN)
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="a.tv.de" tvg-name="a.tv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/atv.png" group-title="Lokal",a.tv
+http://atvhd.iptv-playoutcenter.de/atvHD/ngrp:atvhd.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALEX Berlin" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/alexberlin.png" group-title="Lokal",ALEX Berlin
+https://alex-front.rosebud-media.de/live/smil:alexlivetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="allgäu.tv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/allgaeutv.png" group-title="Lokal",allgäu.tv
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baden TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/badentv.png" group-title="Lokal",Baden TV
+http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="center.tv Düsseldorf" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/centertv.png" group-title="Lokal",center.tv Düsseldorf
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3045-mbr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chemnitz Fernsehen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/chemnitzfernsehen.png" group-title="Lokal",Chemnitz Fernsehen
+http://regio-tv-stream.de:1935/chemnitzfernsehenlive/livestream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DRF1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/drf1.png" group-title="Lokal",DRF1
+http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5713-mbr.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Donau TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/donautv.png" group-title="Lokal",Donau TV
+http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dresden Fernsehen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/dresdenfernsehen.png" group-title="Lokal",Dresden Fernsehen
+http://regio-tv-stream.de:1935/dresdenfernsehenlive/livestream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="eRtv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ertv.png" group-title="Lokal",eRtv
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5679_nYMRJQdgpK3WDGr/playlist.m3u8
+#EXTINF:-1 tvg-id="FrankenTV.de" tvg-name="Franken Fernsehen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/frankenfernsehen.png" group-title="Lokal",Franken Fernsehen
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Hamburg1.de" tvg-name="Hamburg 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/hamburg1.png" group-title="Lokal",Hamburg 1
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5655_F7KT9xCQkXwbNmq/playlist.m3u8
+#EXTINF:-1 tvg-id="intv.de" tvg-name="intv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/intv.png" group-title="Lokal",intv
+https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Isar TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/isartv.png" group-title="Lokal",Isar TV
+https://586c13b083c0d.streamlock.net/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KabelJournal" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/kabeljournal.png" group-title="Lokal",KabelJournal
+http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="L-TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ltv.png" group-title="Lokal",L-TV
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Leipzig Fernsehen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/leipzigfernsehen.png" group-title="Lokal",Leipzig Fernsehen
+http://regio-tv-stream.de:1935/leipzigfernsehenlive/livestream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="main.tv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/maintv.png" group-title="Lokal",main.tv
+http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="MunchenTV.de" tvg-name="münchen.tv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/muenchentv.png" group-title="Lokal",münchen.tv
+https://586dce1287bfd.streamlock.net/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="noa4 Hamburg HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/noa4.png" group-title="Lokal",noa4 Hamburg HD
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="noa4 Norderstedt HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/noa4.png" group-title="Lokal",noa4 Norderstedt HD
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NRW TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/nrwtv.png" group-title="Lokal",NRW TV
+http://streaming006.broadcast.tneg.de:1935/nrwtv-new/_definst_/smil:nrw.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="nrwision" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/nrwision.png" group-title="Lokal",nrwision
+http://129.217.183.165:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oberpfalz TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/oberpfalztv.png" group-title="Lokal",Oberpfalz TV
+https://586dce1287bfd.streamlock.net/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OK Koblenz" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/okkoblenz.png" group-title="Lokal",OK Koblenz
+http://stream-cdn.ok54.de/hls/ok4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OK Trier" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/oktrier.png" group-title="Lokal",OK Trier
+http://stream-cdn.ok54.de/hls/ok54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="oldenburg eins" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/oldenburgeins.png" group-title="Lokal",oldenburg eins
+http://188.40.16.94:1935/live/studio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Potsdam TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/potsdamtv.png" group-title="Lokal",Potsdam TV
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Regio TV Schwaben" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/regiotvschwaben.png" group-title="Lokal",Regio TV Schwaben
+http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Oberbayern.de" tvg-name="RFO" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/rfo.png" group-title="Lokal",RFO
+http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rhein Neckar Fernsehen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/rnf.png" group-title="Lokal",Rhein Neckar Fernsehen
+http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="rheinmaintv.de" tvg-name="rheinmaintv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/rheinmaintv.png" group-title="Lokal",rheinmaintv
+http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sylt1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/sylt1.png" group-title="Lokal",Sylt1
+http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRP1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/trp1.png" group-title="Lokal",TRP1
+http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Mittelrhein" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/tvmittelrhein.png" group-title="Lokal",TV Mittelrhein
+http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Touring" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/tvtouring.png" group-title="Lokal",TV Touring
+https://586dce1287bfd.streamlock.net/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Würzburg" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/wuerzburgtv.png" group-title="Lokal",TV Würzburg
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBerlin.de" tvg-name="tv.berlin" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/tvberlin.png" group-title="Lokal",tv.berlin
+http://stream.der-hauptstadt-sender.de/hls/Themeh4g.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVA" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/tva.png" group-title="Lokal",TVA
+https://586c13b083c0d.streamlock.net/tvaktuellHD/ngrp:tvaktuellHD.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="tvo.de" tvg-name="TVO" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/tvo.png" group-title="Lokal",TVO
+https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Westerwald TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/westerwaldtv.png" group-title="Lokal",Westerwald TV
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ARDEvent1.de" tvg-name="ARD Event 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/daserste.png" group-title="Extra",ARD Event 1
+http://wdr_ardevent1-lh.akamaihd.net/i/wdrardevent1_weltweit@112049/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="ARDEvent2.de" tvg-name="ARD Event 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/daserste.png" group-title="Extra",ARD Event 2
+http://wdr_ardevent2-lh.akamaihd.net/i/wdrardevent2_geogeblockt@112050/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="ZDFEvent1.de" tvg-name="ZDF Event 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/zdf.png" group-title="Extra",ZDF Event 1
+http://zdf0304-lh.akamaihd.net/i/de03_v1@392855/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-id="ZDFEvent2.de" tvg-name="ZDF Event 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/zdf.png" group-title="Extra",ZDF Event 2
+http://zdf0304-lh.akamaihd.net/i/de04_v1@392856/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-id="ZDFEvent.de3" tvg-name="ZDF Event 3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/zdf.png" group-title="Extra",ZDF Event 3
+http://zdf0506-lh.akamaihd.net/i/de05_v1@392857/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-id="ZDFEvent4.de" tvg-name="ZDF Event 4" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/zdf.png" group-title="Extra",ZDF Event 4
+http://zdf0506-lh.akamaihd.net/i/de06_v1@392858/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-id="ZDFEvent5.de" tvg-name="ZDF Event 5" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/zdf.png" group-title="Extra",ZDF Event 5
+http://zdf0708-lh.akamaihd.net/i/de07_v1@392868/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-id="ZDFEvent6.de" tvg-name="ZDF Event 6" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/zdf.png" group-title="Extra",ZDF Event 6
+http://zdf0708-lh.akamaihd.net/i/de08_v1@392869/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-id="ArteEvent1.de" tvg-name="ARTE Event 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/arte.png" group-title="Extra",ARTE Event 1
+https://arteevent01-lh.akamaihd.net/i/arte_event01@395110/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="ArteEvent2.de" tvg-name="ARTE Event 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/arte.png" group-title="Extra",ARTE Event 2
+https://arteevent02-lh.akamaihd.net/i/arte_event02@308866/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="ArteEvent3.de" tvg-name="ARTE Event 3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/arte.png" group-title="Extra",ARTE Event 3
+https://arteevent03-lh.akamaihd.net/i/arte_event03@305298/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="ArteEvent4.de" tvg-name="ARTE Event 4" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/arte.png" group-title="Extra",ARTE Event 4
+https://arteevent04-lh.akamaihd.net/i/arte_event04@308879/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="WDREvent1.de" tvg-name="WDR Event 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/wdr.png" group-title="Extra",WDR Event 1
+http://event1geo.wdr.de/i/wdrevent1_geogeblockt@112051/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="WDREvent2.de" tvg-name="WDR Event 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/wdr.png" group-title="Extra",WDR Event 2
+http://wdr_event2-lh.akamaihd.net/i/wdrevent2_weltweit@112052/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="WDREvent3.de" tvg-name="WDR Event 3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/wdr.png" group-title="Extra",WDR Event 3
+http://wdr_event3-lh.akamaihd.net/i/wdrevent3_weltweit@112053/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="WDREvent4.de" tvg-name="WDR Event 4" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/wdr.png" group-title="Extra",WDR Event 4
+http://wdr_event4-lh.akamaihd.net/i/wdrevent4_weltweit@112054/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="SWREvent1.de" tvg-name="SWR Event 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/swr.png" group-title="Extra",SWR Event 1
+http://swr_event01_uni-lh.akamaihd.net/i/swr_event01@112805/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-id="SWREvent2.de" tvg-name="SWR Event 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/swr.png" group-title="Extra",SWR Event 2
+http://swr_event02_uni-lh.akamaihd.net/i/swr_event02@112806/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-id="SWREvent3.de" tvg-name="SWR Event 3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/swr.png" group-title="Extra",SWR Event 3
+http://swr_event03_uni-lh.akamaihd.net/i/swr_event03@198168/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-id="SWREvent4.de" tvg-name="SWR Event 4" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/swr.png" group-title="Extra",SWR Event 4
+http://swr_event04_uni-lh.akamaihd.net/i/swr_event04@198169/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-id="NDREvent1.de" tvg-name="NDR Event 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ndr.png" group-title="Extra",NDR Event 1
+http://ndr_events-lh.akamaihd.net/i/ndrevent_1@119220/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="NDREvent2.de" tvg-name="NDR Event 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ndr.png" group-title="Extra",NDR Event 2
+http://ndr_events-lh.akamaihd.net/i/ndrevent_2@119221/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="NDREvent3.de" tvg-name="NDR Event 3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ndr.png" group-title="Extra",NDR Event 3
+http://ndr_events-lh.akamaihd.net/i/ndrevent_3@119222/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="NDRSpezial1.de" tvg-name="NDR Spezial 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ndr.png" group-title="Extra",NDR Spezial 1
+http://ndr_spezial-lh.akamaihd.net/i/spezial_1@119227/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="NDRSpezial2.de" tvg-name="NDR Spezial 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ndr.png" group-title="Extra",NDR Spezial 2
+http://ndr_spezial-lh.akamaihd.net/i/spezial_2@119228/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="NDRSpezial3.de" tvg-name="NDR Spezial 3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ndr.png" group-title="Extra",NDR Spezial 3
+http://ndr_spezial-lh.akamaihd.net/i/spezial_3@119229/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="NDRSpezial4.de" tvg-name="NDR Spezial 4" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ndr.png" group-title="Extra",NDR Spezial 4
+http://ndr_spezial-lh.akamaihd.net/i/spezial_4@119230/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="NDRSpezial5.de" tvg-name="NDR Spezial 5" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ndr.png" group-title="Extra",NDR Spezial 5
+http://ndr_spezial-lh.akamaihd.net/i/spezial_5@384495/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="NDRSpezial6.de" tvg-name="NDR Spezial 6" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ndr.png" group-title="Extra",NDR Spezial 6
+http://ndr_spezial-lh.akamaihd.net/i/spezial_6@364638/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="BREvent1.de" tvg-name="BR Event 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/br.png" group-title="Extra",BR Event 1
+http://brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="BREvent2.de" tvg-name="BR Event 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/br.png" group-title="Extra",BR Event 2
+http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="BREvent3.de" tvg-name="BR Event 3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/br.png" group-title="Extra",BR Event 3
+http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="BREvent4.de" tvg-name="BR Event 4" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/br.png" group-title="Extra",BR Event 4
+http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="MDRPlus1.de" tvg-name="MDR+ 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/mdr.png" group-title="Extra",MDR+ 1
+http://liveevent1.mdr.de/i/livetvmdrevent1_ww@106904/index_3871_av-p.m3u8
+#EXTINF:-1 tvg-id="MDRPlus2.de" tvg-name="MDR+ 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/mdr.png" group-title="Extra",MDR+ 2
+http://liveevent2.mdr.de/i/livetvmdrevent2_ww@106905/index_3871_av-p.m3u8
+#EXTINF:-1 tvg-id="MDRPlus3.de" tvg-name="MDR+ 3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/mdr.png" group-title="Extra",MDR+ 3
+http://liveevent2.mdr.de/i/livetvmdrevent3_ww@106905/index_3871_av-p.m3u8
+#EXTINF:-1 tvg-id="HREvent1.de" tvg-name="HR Event 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/hr.png" group-title="Extra",HR Event 1
+http://hrevent-lh.akamaihd.net/i/hr_event@309239/master.m3u8
+#EXTINF:-1 tvg-id="HREvent2.de" tvg-name="HR Event 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/hr.png" group-title="Extra",HR Event 2
+http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
+#EXTINF:-1 tvg-id="RBBEvent1.de" tvg-name="rbb Event 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/rbb.png" group-title="Extra",rbb Event 1
+http://rbbevent01-lh.akamaihd.net/i/rbbevent01_nongeo@22155/index_2692_av-p.m3u8
+#EXTINF:-1 tvg-id="RBBEvent2.de" tvg-name="rbb Event 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/rbb.png" group-title="Extra",rbb Event 2
+https://rbbevent02-lh.akamaihd.net/i/rbbevent02_nongeo@22197/index_2692_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Parlamentsfernsehen 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/parlamentsfernsehen.png" group-title="Extra;Information / Bildung",Parlamentsfernsehen 1
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Parlamentsfernsehen 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/parlamentsfernsehen.png" group-title="Extra;Information / Bildung",Parlamentsfernsehen 2
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/djing.png" group-title="Extra;Musik",DJing
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Animation" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/djing.png" group-title="Extra;Musik",DJing Animation
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Classics" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/djing.png" group-title="Extra;Musik",DJing Classics
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Electro Rock" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/djing.png" group-title="Extra;Musik",DJing Electro Rock
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing French touch" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/djing.png" group-title="Extra;Musik",DJing French touch
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Hedonist" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/djing.png" group-title="Extra;Musik",DJing Hedonist
+https://www.djing.com/tv/session_hedonist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Hot Hot Hot" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/djing.png" group-title="Extra;Musik",DJing Hot Hot Hot
+https://www.djing.com/tv/h-01-fta.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Ibiza" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/djing.png" group-title="Extra;Musik",DJing Ibiza
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Karaoke" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/djing.png" group-title="Extra;Musik",DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Summer Vibes" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/djing.png" group-title="Extra;Musik",DJing Summer Vibes
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Underground" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/djing.png" group-title="Extra;Musik",DJing Underground
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Wild EDM" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/djing.png" group-title="Extra;Musik",DJing Wild EDM
+http://www.djing.com/tv/session_wild-edm.m3u8
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-name="ServusTV HD (AT)" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/servustvhd.png" group-title="International;Spartenprogramm",ServusTV HD (AT)
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8
+#EXTINF:-1 tvg-id="Gotv.at" tvg-name="gotv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/gotv.png" group-title="International;Musik",gotv
+http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
+#EXTINF:-1 tvg-id="OKTO.at" tvg-name="Okto" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/okto.png" group-title="International",Okto
+https://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF eins HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/orf1hd.png" group-title="International",ORF eins HD
+http://orf1.orf.cdn.ors.at/orf1/q8c.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2 HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/orf2hd.png" group-title="International",ORF 2 HD
+http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF III HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/orf3hd.png" group-title="International",ORF III HD
+http://orf3.orf.cdn.ors.at/orf3/q8c.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ORFSport.at" tvg-name="ORF SPORT +" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/orfsportplushd.png" group-title="International;Sport",ORF SPORT +
+http://orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="dorf tv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/dorftv.png" group-title="International",dorf tv
+http://dorf.openplayout.org/hls/dorf_high/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RE eins TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/reeins.png" group-title="International",RE eins TV
+http://www.reeins.tv:1935/live/re1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classica" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/kvf.png" group-title="Germany",KVF
+http://configuration.tn:8000/live/T1278/T1278/3850.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tirol TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/tiroltv.png" group-title="International",Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="oe24 TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/oe24tv.png" group-title="International",oe24 TV
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M4TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/m4tv.png" group-title="International",M4TV
+http://streaming.austria24.tv/live/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="W24.at" tvg-name="W24 TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/w24.png" group-title="International",W24 TV
+http://ms02.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kronehit TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/kronehittv.png" group-title="International;Musik",Kronehit TV
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sporttime TV 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/sporttimetv.png" group-title="International;Musik",Sporttime TV 1
+http://sporttimelive1.content-cdn.net/livechannel1/smil:switch1.smil/playlist.m3u8?wowzatokenhash=sUTjnxXLdal6Y8bBzs9an_zhqn7VrgWUS5uB8sckoCw=
+#EXTINF:-1 tvg-id="" tvg-name="Sporttime TV 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/sporttimetv.png" group-title="International;Sport",Sporttime TV 2
+http://sporttimelive1.content-cdn.net/livechannel2/smil:switch2.smil/playlist.m3u8?wowzatokenhash=qgtY96D77QocQoiJn6MCsyHbBMGla2uQoQ03XvQYkuE=
+#EXTINF:-1 tvg-id="" tvg-name="Sporttime TV 4" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/sporttimetv.png" group-title="International;Information / Bildung",Sporttime TV 4
+http://sporttimelive1.content-cdn.net/livechannel4/smil:switch4.smil/playlist.m3u8?wowzatokenhash=BhYr7Qu4cZ8LgxWiF7cuQ_hA7sxqdon5Kw0sIHJ7TpM=
+#EXTINF:-1 tvg-id="" tvg-name="Sporttime TV 5" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/sporttimetv.png" group-title="International",Sporttime TV 5
+http://live.earthtv.com:1935/edge27/TWLDE/playlist.m3u8?58a36274bbf047f6c3b5cdb1
+#EXTINF:-1 tvg-id="TeleZuri.ch" tvg-name="TeleZüri HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/telezueri.png" group-title="International",TeleZüri HD
+https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/sd/10000/t/AFb4DZ0W2ts1a8fV5xo1VQ/index-s32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TeleBärn HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/telebaern.png" group-title="International",TeleBärn HD
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8
+#EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1 HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/telem1.png" group-title="International",Tele M1 HD
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+#EXTINF:-1 tvg-id="TVO.ch" tvg-name="TVO (CH)" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/tvo_ch.png" group-title="International",TVO (CH)
+http://livevideo.infomaniak.com/streaming/livecast/tvo/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="TeleBielingue" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/telebielingue.png" group-title="International",TeleBielingue
+http://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
+#EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/tvm3.png" group-title="International;Musik",TVM3
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telebasel" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/telebasel.png" group-title="International",Telebasel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/abcnews.png" group-title="International;Nachrichten",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/adultswim.png" group-title="International;Comedy",Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JUCE TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/jucetv.png" group-title="International;Religion;Kinder / Jugend",JUCE TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
+#EXTINF:-1 tvg-id="NASA.us" tvg-name="NASA TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/nasatv.png" group-title="International;Information / Bildung",NASA TV
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBSN" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/cbsn.png" group-title="International;Nachrichten",CBSN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBN News" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/cbnnews.png" group-title="International;Nachrichten",CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.nws" tvg-name="Bloomberg TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/bloombergtv.png" group-title="International;Wirtschaft",Bloomberg TV
+https://mediaeuwest.akamaized.net/eu/EU1000kb_live.m3u8
+#EXTINF:-1 tvg-id="SonLife.uk" tvg-name="SBN" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/sbn.png" group-title="International;Religion",SBN
+http://sonlife-i.akamaihd.net/hls/live/250091/englishvtt/englishvtt0/englishvtt0.m3u8
+#EXTINF:-1 tvg-id="GODChannel.uk" tvg-name="GOD TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/godtv.png" group-title="International;Religion",GOD TV
+https://ooyalahd2-f.akamaihd.net/i/godtv02_delivery@17351/index_3200_av-p.m3u8
+#EXTINF:-1 tvg-id="VOA.com" tvg-name="Voice of America" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/voiceofamerica.png" group-title="International;Nachrichten;Information / Bildung",Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KTVU Fox 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/ktvufox2.png" group-title="International;Nachrichten",KTVU Fox 2
+http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/msnbc.png" group-title="International;Nachrichten",MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WGN-TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/wgntv.png" group-title="International;Nachrichten",WGN-TV
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CMC" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/cmc.png" group-title="International;Musik",CMC
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hunt Channel" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/huntchannel.png" group-title="International;Sonstiges",Hunt Channel
+http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
+#EXTINF:-1 tvg-id="CreateCraft.uk" tvg-name="Create & Craft TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/createandcraft.png" group-title="International;Teleshopping",Create & Craft TV
+http://live.cc.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/bitrate1-audio_track=64000-video=1500000.m3u8
+#EXTINF:-1 tvg-id="CapitalTV.uk" tvg-name="Capital TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/capitaltv.png" group-title="International;Musik",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.m3u8
+#EXTINF:-1 tvg-id="HeartTV.uk" tvg-name="Heart TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/hearttv.png" group-title="International;Musik",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews.nws" tvg-name="BBC World News" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/bbcworldnews.png" group-title="International;Nachrichten",BBC World News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/skynews.png" group-title="International;Nachrichten",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="London Live" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/londonlive.png" group-title="International;Nachrichten",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1 tvg-id="PressTV.uk" tvg-name="Press TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/presstv.png" group-title="International;Nachrichten",Press TV
+http://178.32.255.199:1935/live/ptven/playlist.m3u8
+#EXTINF:-1 tvg-id="CHCH.cdn" tvg-name="CHCH" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/chch.png" group-title="International;Nachrichten",CHCH
+http://52.86.189.59:1935/live/news/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVNZ 1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/tvnz1.png" group-title="International",TVNZ 1
+https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/masterR_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVNZ 2" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/tvnz2.png" group-title="International",TVNZ 2
+https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/masterR_55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Three" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/three.png" group-title="International;Nachrichten",Three
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE HD (FR)" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/artehd.png" group-title="International;Vollprogramm",ARTE HD (FR)
+https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/france24.png" group-title="International;Nachrichten",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ HITS TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/nrjhitstv.png" group-title="International;Musik",NRJ HITS TV
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/bfmtv.png" group-title="International;Nachrichten",BFMTV
+http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XITE" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/xite.png" group-title="International;Musik",XITE
+http://highvolume03.streampartner.nl/vleugels_hd6/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV538.nl" tvg-name="TV 538" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/tv538.png" group-title="International;Musik",TV 538
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SDF" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/sdf.png" group-title="International",SDF
+http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="m2o Tv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/m2otv.png" group-title="International;Musik",m2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/rainews24.png" group-title="International;Nachrichten",Rai News 24
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1800_av-b.m3u8
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="supertennis.tv" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/supertennis.png" group-title="International;Sport",supertennis.tv
+http://livetok.flash.glb.ipercast.net/supertennis.tv-live/live_490.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fjorton" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/fjorton.png" group-title="International",Fjorton
+http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
+#EXTINF:-1 tvg-id="digi24.ro" tvg-name="Digi 24 HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/digi24hd.png" group-title="International;Nachrichten",Digi 24 HD
+http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w41349427_b2830400_sleng.m3u8
+#EXTINF:-1 tvg-id="ProTVInternational.ro" tvg-name="ProTv News" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/protvnews.png" group-title="International;Nachrichten",ProTv News
+http://185.133.64.237/news/stream:1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RealitateaTV.ro" tvg-name="Realitatea TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/realitateatv.png" group-title="International;Nachrichten",Realitatea TV
+http://realitatea.m247.ro/hls/live.m3u8
+#EXTINF:-1 tvg-id="RomaniaTV.ro" tvg-name="Romania TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/romaniatv.png" group-title="International;Nachrichten",Romania TV
+http://ppext.arktv.ro/hls/channel6/bitrate4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sitel" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/sitel.png" group-title="International",Sitel
+http://51.255.92.232:1935/sitel/sitel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 5" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/kanal5.png" group-title="International",Kanal 5
+http://37.187.158.217:8081/kanal5/kanal5/playlist.m3u8
+#EXTINF:-1 tvg-id="Alfa.hr" tvg-name="Alfa" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/alfa.png" group-title="International",Alfa
+http://37.187.158.217:8081/alfa/tvalfa2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telma" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/telma.png" group-title="International",Telma
+http://37.187.158.217:8081/telma/telma_360pp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24 Vesti" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/24vesti.png" group-title="International;Nachrichten",24 Vesti
+http://37.187.158.217:8081/24vesti/24vesti/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTworld.nws" tvg-name="TRT World HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/trtworld.png" group-title="International;Nachrichten",TRT World HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-p.m3u8
+#EXTINF:-1 tvg-id="RussiaToday.uk" tvg-name="RT HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/rt.png" group-title="International;Nachrichten",RT HD
+https://secure-streams.akamaized.net/rt/index2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT Spanish HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/rt.png" group-title="International;Nachrichten",RT Spanish HD
+http://secure-streams.akamaized.net/rt-esp/index2500.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.pl" tvg-name="RT Documentary" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/rtdocumentary.png" group-title="International;Dokumentationen",RT Documentary
+https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MetroTV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/metrotv.png" group-title="International;Nachrichten",MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1322909361_b1300000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/nhkworldtv.png" group-title="International;Nachrichten;Dokumentationen",NHK WORLD TV
+https://nhkwtv-i.akamaihd.net/hls/live/263942/nhkwtv/index_2100.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraArabe.nws" tvg-name="Al Jazeera" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/aljazeera.png" group-title="International;Nachrichten",Al Jazeera
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.nws" tvg-name="Al Jazeera English" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/aljazeeraenglish.png" group-title="International;Nachrichten",Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+#EXTINF:-1 tvg-id="DubaiOne.net" tvg-name="Dubai One" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/dubaione.png" group-title="International;Filme / Serien",Dubai One
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KVF" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/kvf.png" group-title="International",KVF
+http://netvarp.kringvarp.fo/uttanlands/video/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALBUK TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/albuktv.png" group-title="International",ALBUK TV
+http://188.138.17.8:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTENewsNow.ie" tvg-name="RTÉ News Now" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/rtenewsnow.png" group-title="International;Nachrichten",RTÉ News Now
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mello TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/mellotv.png" group-title="International;Filme / Serien",Mello TV
+http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
+#EXTINF:-1 tvg-id="ArirangTv.kr" tvg-name="Arirang TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/arirangtv.png" group-title="International;Nachrichten",Arirang TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel NewsAsia" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/channelnewsasia.png" group-title="International;Nachrichten",Channel NewsAsia
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="100'5 Alemannia" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/1005dashitradio.png" group-title="Deutschland",100'5 Alemannia
+http://dashitradio-alemannia.skydisc.net:8000/Alemannia.mp3
+#EXTINF:-1 tvg-id="" tvg-name="100'5 DAS HITRADIO" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/1005dashitradio.png" group-title="Deutschland",100'5 DAS HITRADIO
+http://dashitradio-mp3-8000.skydisc.net:8000/dashitradio-live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="105'5 Spreeradio" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/1055spreeradio.png" group-title="Deutschland",105'5 Spreeradio
+http://stream.spreeradio.de/spree-live/mp3-128/konsole
+#EXTINF:-1 tvg-id="" tvg-name="105'5 Spreeradio 80er" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/1055spreeradio.png" group-title="Deutschland",105'5 Spreeradio 80er
+http://stream.spreeradio.de/spree-80er/mp3-128/konsole
+#EXTINF:-1 tvg-id="" tvg-name="105'5 Spreeradio Love" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/1055spreeradio.png" group-title="Deutschland",105'5 Spreeradio Love
+http://stream.spreeradio.de/spree-love/mp3-128/konsole
+#EXTINF:-1 tvg-id="" tvg-name="105'5 Spreeradio Rock" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/1055spreeradio.png" group-title="Deutschland",105'5 Spreeradio Rock
+http://stream.spreeradio.de/spree-rock/mp3-128/konsole
+#EXTINF:-1 tvg-id="" tvg-name="105'5 Spreeradio Weihnachtsradio" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/1055spreeradio.png" group-title="Deutschland",105'5 Spreeradio Weihnachtsradio
+http://stream.spreeradio.de/spree-event/mp3-128/konsole
+#EXTINF:-1 tvg-id="" tvg-name="1LIVE" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/1live.png" group-title="Deutschland",1LIVE
+http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="1LIVE diggi" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/1livediggi.png" group-title="Deutschland",1LIVE diggi
+http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="89.0 RTL" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/890rtl.png" group-title="Deutschland",89.0 RTL
+http://stream.89.0rtl.de/live/mp3-256/direktlinkHP
+#EXTINF:-1 tvg-id="" tvg-name="Absolut Radio" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/absolutradio.png" group-title="Deutschland",Absolut Radio
+http://stream.absolutradio.de/hq/mp3-160/stream.absolutradio.de
+#EXTINF:-1 tvg-id="" tvg-name="Absolut relax" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/absolutrelax.png" group-title="Deutschland",Absolut relax
+http://stream.absolutradio.de/relax/mp3-160/stream.absolutradio.de
+#EXTINF:-1 tvg-id="" tvg-name="antenne 1" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/antenne1.png" group-title="Deutschland",antenne 1
+http://stream.antenne1.de/a1stg/livestream2.mp3
+#EXTINF:-1 tvg-id="" tvg-name="ANTENNE BAYERN" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/antennebayern.png" group-title="Deutschland",ANTENNE BAYERN
+http://mp3channels.webradio.antenne.de:80/antenne
+#EXTINF:-1 tvg-id="" tvg-name="Antenne Brandenburg" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/antennebrandenburg.png" group-title="Deutschland",Antenne Brandenburg
+http://rbb-antennebrandenburg-live.cast.addradio.de/rbb/antennebrandenburg/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="ANTENNE THÜRINGEN" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/antennethueringen.png" group-title="Deutschland",ANTENNE THÜRINGEN
+http://stream.antennethueringen.de/live/mp3-192
+#EXTINF:-1 tvg-id="" tvg-name="AntenneSaar" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/antennesaar.png" group-title="Deutschland",AntenneSaar
+http://asm.akacast.akamaistream.net/7/495/305516/v1/gnl.akacast.akamaistream.net/asm
+#EXTINF:-1 tvg-id="" tvg-name="B5 aktuell" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/b5aktuell.png" group-title="Deutschland",B5 aktuell
+http://br-b5aktuell-live.cast.addradio.de/br/b5aktuell/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="B5 plus" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/b5plus.png" group-title="Deutschland",B5 plus
+http://br-b5plus-live.cast.addradio.de/br/b5plus/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Bayern 1" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bayern1.png" group-title="Deutschland",Bayern 1
+http://br-br1-obb.cast.addradio.de/br/br1/obb/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Bayern 2 Nord" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bayern2.png" group-title="Deutschland",Bayern 2 Nord
+http://br-br2-nord.cast.addradio.de/br/br2/nord/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Bayern 2 Süd" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bayern2.png" group-title="Deutschland",Bayern 2 Süd
+http://br-br2-sued.cast.addradio.de/br/br2/sued/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Bayern 3" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bayern3.png" group-title="Deutschland",Bayern 3
+http://br-br3-live.cast.addradio.de/br/br3/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Bayern plus" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bayernplus.png" group-title="Deutschland",Bayern plus
+http://br-bayernplus-live.cast.addradio.de/br/bayernplus/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="bigFM" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bigfm.png" group-title="Deutschland",bigFM
+http://217.151.152.245:80/bigfm-mp3-96
+#EXTINF:-1 tvg-id="" tvg-name="BlackBeats.FM" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/blackbeatsfm.png" group-title="Deutschland",BlackBeats.FM
+http://stream.blackbeatslive.de/
+#EXTINF:-1 tvg-id="" tvg-name="BR Heimat" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/brheimat.png" group-title="Deutschland",BR Heimat
+http://br-brheimat-live.cast.addradio.de/br/brheimat/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="BR-Klassik" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/brklassik.png" group-title="Deutschland",BR-Klassik
+http://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Bremen Eins" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bremeneins.png" group-title="Deutschland",Bremen Eins
+http://rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Bremen Vier" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bremenvier.png" group-title="Deutschland",Bremen Vier
+http://rb-bremenvier-live.cast.addradio.de/rb/bremenvier/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Bremen Vier rockt" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bremenvier.png" group-title="Deutschland",Bremen Vier rockt
+http://80.252.104.101:8000/rockt
+#EXTINF:-1 tvg-id="" tvg-name="Bremen Zwei" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bremenzwei.png" group-title="Deutschland",Bremen Zwei
+http://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DASDING" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/dasding.png" group-title="Deutschland",DASDING
+https://swr-dasding-live.sslcast.addradio.de/swr/dasding/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DELUXE 80S EXTREME" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/deluxeradio.png" group-title="Deutschland",DELUXE 80S EXTREME
+https://deluxe-radio.mivitec.net:8443/0001
+#EXTINF:-1 tvg-id="" tvg-name="DELUXE ALMOST FAMOUS" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/deluxeradio.png" group-title="Deutschland",DELUXE ALMOST FAMOUS
+https://deluxe-radio.mivitec.net:8443/0002
+#EXTINF:-1 tvg-id="" tvg-name="DELUXE CHEFSESSEL by WAGNER" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/deluxeradio.png" group-title="Deutschland",DELUXE CHEFSESSEL by WAGNER
+https://deluxe-radio.mivitec.net:8443/0011
+#EXTINF:-1 tvg-id="" tvg-name="DELUXE EASY" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/deluxeeasy.png" group-title="Deutschland",DELUXE EASY
+https://deluxe-radio.mivitec.net:8443/0009
+#EXTINF:-1 tvg-id="" tvg-name="DELUXE LOUNGE RADIO" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/deluxeloungeradio.png" group-title="Deutschland",DELUXE LOUNGE RADIO
+https://deluxe-radio.mivitec.net:8443/0010
+#EXTINF:-1 tvg-id="" tvg-name="DELUXE MUSIC RADIO" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/deluxemusicradio.png" group-title="Deutschland",DELUXE MUSIC RADIO
+https://deluxe-radio.mivitec.net:8443/0005
+#EXTINF:-1 tvg-id="" tvg-name="DELUXE NEW ARRIVALS" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/deluxeradio.png" group-title="Deutschland",DELUXE NEW ARRIVALS
+https://deluxe-radio.mivitec.net:8443/0006
+#EXTINF:-1 tvg-id="" tvg-name="DELUXE TOP 25" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/deluxeradio.png" group-title="Deutschland",DELUXE TOP 25
+https://deluxe-radio.mivitec.net:8443/0008
+#EXTINF:-1 tvg-id="" tvg-name="Deutschlandfunk" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/deutschlandfunk.png" group-title="Deutschland",Deutschlandfunk
+http://st01.dlf.de/dlf/01/128/mp3/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Deutschlandfunk Kultur" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/deutschlandfunkkultur.png" group-title="Deutschland",Deutschlandfunk Kultur
+http://st02.dlf.de/dlf/02/128/mp3/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Deutschlandfunk Nova" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/deutschlandfunknova.png" group-title="Deutschland",Deutschlandfunk Nova
+http://st03.dlf.de/dlf/03/128/mp3/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Deutschlandradio Dokumente und Debatten" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/deutschlandradiodud.png" group-title="Deutschland",Deutschlandradio Dokumente und Debatten
+http://st04.dlf.de/dlf/04/128/mp3/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DIE NEUE 107.7" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/dieneue1077.png" group-title="Deutschland",DIE NEUE 107.7
+http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DISCO DELUXE" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/deluxeradio.png" group-title="Deutschland",DISCO DELUXE
+https://deluxe-radio.mivitec.net:8443/0003
+#EXTINF:-1 tvg-id="" tvg-name="domradio.de" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/domradiode.png" group-title="Deutschland",domradio.de
+http://domradio-mp3-l.akacast.akamaistream.net/7/809/237368/v1/gnl.akacast.akamaistream.net/domradio-mp3-l
+#EXTINF:-1 tvg-id="" tvg-name="DONAU 3 FM" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/donau3fm.png" group-title="Deutschland",DONAU 3 FM
+http://mp3.donau3fm.c.nmdn.net/donau3fm/live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="egoFM" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/egofm.png" group-title="Deutschland",egoFM
+http://mp3ad.egofm.c.nmdn.net/ps-egofm_192/livestream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="ERF Plus" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/erfplus.png" group-title="Deutschland",ERF Plus
+http://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/3212erf_96/live_de_96.mp3
+#EXTINF:-1 tvg-id="" tvg-name="ERF Pop" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/erfpop.png" group-title="Deutschland",ERF Pop
+http://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/2908erfpop/live_de_96.mp3
+#EXTINF:-1 tvg-id="" tvg-name="FluxFM" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/fluxfm.png" group-title="Deutschland",FluxFM
+http://streams.fluxfm.de/live/mp3-320/audio/
+#EXTINF:-1 tvg-id="" tvg-name="Fritz" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/fritz.png" group-title="Deutschland",Fritz
+http://rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="harmony.fm" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/harmonyfm.png" group-title="Deutschland",harmony.fm
+http://mp3ad.harmony.c.nmdn.net/fs_harmonyfm/hqlivestream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="HIT RADIO FFH" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/hitradioffh.png" group-title="Deutschland",HIT RADIO FFH
+http://mp3.ffh.de/radioffh/hqlivestream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="hr-info" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/hrinfo.png" group-title="Deutschland",hr-info
+http://hr-hrinfo-live.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="hr1" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/hr1.png" group-title="Deutschland",hr1
+http://hr-hr1-live.cast.addradio.de/hr/hr1/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="hr2-kultur" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/hr2kultur.png" group-title="Deutschland",hr2-kultur
+http://hr-hr2-live.cast.addradio.de/hr/hr2/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="hr3" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/hr3.png" group-title="Deutschland",hr3
+http://hr-hr3-live.cast.addradio.de/hr/hr3/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="hr4" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/hr4.png" group-title="Deutschland",hr4
+http://hr-hr4-live.cast.addradio.de/hr/hr4/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="JAM FM" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/jamfm.png" group-title="Deutschland",JAM FM
+http://stream.jam.fm/jamfm-live/mp3-128/konsole/
+#EXTINF:-1 tvg-id="" tvg-name="JAM FM Black Label" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/jamfm.png" group-title="Deutschland",JAM FM Black Label
+http://stream.jam.fm/jamfm-bl/mp3-128/konsole/
+#EXTINF:-1 tvg-id="" tvg-name="JAM FM New Music Radio" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/jamfm.png" group-title="Deutschland",JAM FM New Music Radio
+http://stream.jam.fm/jamfm-nmr/mp3-128/konsole/
+#EXTINF:-1 tvg-id="" tvg-name="JUKEBOX RADIO" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/deluxeradio.png" group-title="Deutschland",JUKEBOX RADIO
+https://deluxe-radio.mivitec.net:8443/0004
+#EXTINF:-1 tvg-id="" tvg-name="KiRaKa" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/kiraka.png" group-title="Deutschland",KiRaKa
+http://wdr-kiraka-live.icecast.wdr.de/wdr/kiraka/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="KULTRADIO" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/kultradio.png" group-title="Deutschland",KULTRADIO
+http://ice.kultradio.fm/kult128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="LandesWelle Thüringen" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/landeswellethueringen.png" group-title="Deutschland",LandesWelle Thüringen
+http://stream.landeswelle.de/lwt/mp3-192
+#EXTINF:-1 tvg-id="" tvg-name="MDR AKTUELL" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/mdraktuell.png" group-title="Deutschland",MDR AKTUELL
+http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="MDR JUMP" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/mdrjump.png" group-title="Deutschland",MDR JUMP
+http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="MDR KLASSIK" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/mdrklassik.png" group-title="Deutschland",MDR KLASSIK
+http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="MDR KULTUR" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/mdrkultur.png" group-title="Deutschland",MDR KULTUR
+http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="MDR SACHSEN" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/mdrsachsen.png" group-title="Deutschland",MDR SACHSEN
+http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="MDR SPUTNIK" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/mdrsputnik.png" group-title="Deutschland",MDR SPUTNIK
+http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="MDR THÜRINGEN" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/mdrthueringen.png" group-title="Deutschland",MDR THÜRINGEN
+http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="multicult.fm" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/multicultfm.png" group-title="Deutschland",multicult.fm
+http://stream.multicult.fm:8000/hifi
+#EXTINF:-1 tvg-id="" tvg-name="N-JOY" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/njoy.png" group-title="Deutschland",N-JOY
+http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="NDR 1 Niedersachsen" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/ndr1niedersachsen.png" group-title="Deutschland",NDR 1 Niedersachsen
+http://ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="NDR 1 Radio MV" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/ndr1radiomv.png" group-title="Deutschland",NDR 1 Radio MV
+http://ndr-ndr1radiomv-schwerin.cast.addradio.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="NDR 1 Welle Nord" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/ndr1wellenord.png" group-title="Deutschland",NDR 1 Welle Nord
+http://ndr-ndr1wellenord-kiel.cast.addradio.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="NDR 2" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/ndr2.png" group-title="Deutschland",NDR 2
+http://ndr-ndr2-niedersachsen.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="NDR 90,3" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/ndr903.png" group-title="Deutschland",3" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/ndr903.png"
+http://ndr-ndr903-hamburg.cast.addradio.de/ndr/ndr903/hamburg/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="NDR Blue" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/ndrblue.png" group-title="Deutschland",NDR Blue
+http://ndr-ndrblue-live.cast.addradio.de/ndr/ndrblue/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="NDR Info" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/ndrinfo.png" group-title="Deutschland",NDR Info
+http://ndr-ndrinfo-niedersachsen.cast.addradio.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="NDR Info Spezial" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/ndrinfospezial.png" group-title="Deutschland",NDR Info Spezial
+http://ndr-ndrinfospezial-live.cast.addradio.de/ndr/ndrinfospezial/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="NDR kultur" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/ndrkultur.png" group-title="Deutschland",NDR kultur
+http://ndr-ndrkultur-live.cast.addradio.de/ndr/ndrkultur/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="NDR Plus" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/ndrplus.png" group-title="Deutschland",NDR Plus
+http://ndr-ndrplus-live.cast.addradio.de/ndr/ndrplus/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="nice" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/nice.png" group-title="Deutschland",nice
+http://edge.audio.3qsdn.com/rG7JYcRNgKdh3XV
+#EXTINF:-1 tvg-id="" tvg-name="nice DELUXE" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/nice.png" group-title="Deutschland",nice DELUXE
+http://edge.audio.3qsdn.com/5939_twjx732yFMfvzPY
+#EXTINF:-1 tvg-id="" tvg-name="nice URBAN" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/nice.png" group-title="Deutschland",nice URBAN
+http://edge.audio.3qsdn.com/DKrFftd7QJWmGgy
+#EXTINF:-1 tvg-id="" tvg-name="oldenburg eins" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/oldenburgeins.png" group-title="Deutschland",oldenburg eins
+http://radio.oeins.de:8000/oeins
+#EXTINF:-1 tvg-id="" tvg-name="Ostseewelle HIT-RADIO" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/ostseewelle.png" group-title="Deutschland",Ostseewelle HIT-RADIO
+http://mp3.ostseewelle.c.nmdn.net/ostseewellelive/livestream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="planet radio" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/planetradio.png" group-title="Deutschland",planet radio
+http://mp3.planetradio.de/fs_planetradio/hqlivestream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="PULS" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/puls.png" group-title="Deutschland",PULS
+http://br-puls-live.cast.addradio.de/br/puls/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio 7" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radio7.png" group-title="Deutschland",Radio 7
+http://stream.radio7.de/stream1/livestream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio 90.1" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radio901.png" group-title="Deutschland",Radio 90.1
+http://mp3.radiomg.c.nmdn.net/radiomg/livestream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="radio B2" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiob2.png" group-title="Deutschland",radio B2
+http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="RADIO BOB!" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiobob.png" group-title="Deutschland",RADIO BOB!
+http://streams.radiobob.de/bob-live/mp3-192/mediaplayer
+#EXTINF:-1 tvg-id="" tvg-name="Radio Brocken" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiobrocken.png" group-title="Deutschland",Radio Brocken
+http://stream.radiobrocken.de/live/mp3-256
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ENERGY Sachsen" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radioenergysachsen.png" group-title="Deutschland",RADIO ENERGY Sachsen
+http://185.52.127.159/de/33013/mp3_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Regenbogen" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radioregenbogen.png" group-title="Deutschland",Radio Regenbogen
+http://streams.regenbogen.de/rr-mannheim-128-mp3
+#EXTINF:-1 tvg-id="" tvg-name="radio SAW" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiosaw.png" group-title="Deutschland",radio SAW
+http://stream.radiosaw.de
+#EXTINF:-1 tvg-id="" tvg-name="radio TOP 40" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiotop40.png" group-title="Deutschland",radio TOP 40
+http://stream.radiotop40.de/live/mp3-192
+#EXTINF:-1 tvg-id="" tvg-name="Radio TEDDY" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radioteddy.png" group-title="Deutschland",Radio TEDDY
+http://217.160.14.96:8000/intro.radioteddy.mp3
+#EXTINF:-1 tvg-id="" tvg-name="radioBERLIN 88.8" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radioberlin888.png" group-title="Deutschland",radioBERLIN 88.8
+http://rbb-radioberlin-live.cast.addradio.de/rbb/radioberlin/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="radioeins" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radioeins.png" group-title="Deutschland",radioeins
+http://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="reboot.fm" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/rebootfm.png" group-title="Deutschland",reboot.fm
+http://87.118.122.220:8002/stream
+#EXTINF:-1 tvg-id="" tvg-name="ROCK ANTENNE" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/rockantenne.png" group-title="Deutschland",ROCK ANTENNE
+http://mp3channels.webradio.rockantenne.de/rockantenne
+#EXTINF:-1 tvg-id="" tvg-name="Rockland Radio" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/rocklandradio.png" group-title="Deutschland",Rockland Radio
+http://188.94.97.90/rockland.mp3
+#EXTINF:-1 tvg-id="" tvg-name="ROCKLAND.FM" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/rocklandfm.png" group-title="Deutschland",ROCKLAND.FM
+http://stream.rockland-digital.de
+#EXTINF:-1 tvg-id="" tvg-name="RPR1" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/rpr1.png" group-title="Deutschland",RPR1
+http://streams.rpr1.de/rpr-koeln-128-mp3
+#EXTINF:-1 tvg-id="" tvg-name="RTF.3" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/rtf3.png" group-title="Deutschland",RTF.3
+http://37.187.93.104:8414/stream
+#EXTINF:-1 tvg-id="" tvg-name="SR 1 Europawelle" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/sr1europawelle.png" group-title="Deutschland",SR 1 Europawelle
+http://sr1m.akacast.akamaistream.net/7/725/142685/v1/gnl.akacast.akamaistream.net/sr1m
+#EXTINF:-1 tvg-id="" tvg-name="SR 2 Kulturradio" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/sr2kulturradio.png" group-title="Deutschland",SR 2 Kulturradio
+http://sr2m.akacast.akamaistream.net/7/375/142686/v1/gnl.akacast.akamaistream.net/sr2m
+#EXTINF:-1 tvg-id="" tvg-name="SR 3 Saarlandwelle" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/sr3saarlandwelle.png" group-title="Deutschland",SR 3 Saarlandwelle
+http://sr3m.akacast.akamaistream.net/7/722/142687/v1/gnl.akacast.akamaistream.net/sr3m
+#EXTINF:-1 tvg-id="" tvg-name="sunshine live" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/sunshinelive.png" group-title="Deutschland",sunshine live
+http://sunshinelive.hoerradar.de/sunshinelive-live-mp3-hq
+#EXTINF:-1 tvg-id="" tvg-name="SWR1 Baden-Württemberg" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/swr1bw.png" group-title="Deutschland",SWR1 Baden-Württemberg
+http://swr-swr1-bw.cast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="SWR1 Rheinland-Pfalz" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/swr1rp.png" group-title="Deutschland",SWR1 Rheinland-Pfalz
+http://swr-swr1-rp.cast.addradio.de/swr/swr1/rp/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="SWR2" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/swr2.png" group-title="Deutschland",SWR2
+http://swr-swr2-live.cast.addradio.de/swr/swr2/live/mp3/256/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="SWR3" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/swr3.png" group-title="Deutschland",SWR3
+http://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="SWR4 Baden-Württemberg" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/swr4bw.png" group-title="Deutschland",SWR4 Baden-Württemberg
+http://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="SWR4 Rheinland-Pfalz" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/swr4rp.png" group-title="Deutschland",SWR4 Rheinland-Pfalz
+http://swr-swr4-rp.cast.addradio.de/swr/swr4/rp/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="UNSERDING" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/unserding.png" group-title="Deutschland",UNSERDING
+http://udm.akacast.akamaistream.net/7/384/142688/v1/gnl.akacast.akamaistream.net/udm
+#EXTINF:-1 tvg-id="" tvg-name="WDR 2" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/wdr2.png" group-title="Deutschland",WDR 2
+http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WDR 3" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/wdr3.png" group-title="Deutschland",WDR 3
+http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WDR 4" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/wdr4.png" group-title="Deutschland",WDR 4
+http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WDR 5" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/wdr5.png" group-title="Deutschland",WDR 5
+http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="YOU FM" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/youfm.png" group-title="Deutschland",YOU FM
+http://hr-youfm-live.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="YOU FM Club" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/youfm.png" group-title="Deutschland",YOU FM Club
+http://hr-youfm-club.cast.addradio.de/hr/youfm/club/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="YOU FM Just Music" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/youfm.png" group-title="Deutschland",YOU FM Just Music
+http://hr-youfm-justmusic.cast.addradio.de/hr/youfm/justmusic/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="YOU FM Sounds" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/youfm.png" group-title="Deutschland",YOU FM Sounds
+http://hr-youfm-sounds.cast.addradio.de/hr/youfm/sounds/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="FM4" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/fm4.png" group-title="Österreich",FM4
+http://mp3stream1.apasf.apa.at:8000/
+#EXTINF:-1 tvg-id="" tvg-name="Hitradio Ö3" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/hitradiooe3.png" group-title="Österreich",Hitradio Ö3
+http://mp3stream7.apasf.apa.at:8000/
+#EXTINF:-1 tvg-id="" tvg-name="Klassik Radio" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/klassikradio.png" group-title="Österreich",Klassik Radio
+http://klassikradio.hoerradar.de/klassikradio-live-mp3-mq
+#EXTINF:-1 tvg-id="" tvg-name="KRONEHIT" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/kronehit.png" group-title="Österreich",KRONEHIT
+http://onair.krone.at:80/kronehit.mp3
+#EXTINF:-1 tvg-id="" tvg-name="KRONEHIT Dance" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/kronehit.png" group-title="Österreich",KRONEHIT Dance
+http://onair.krone.at:80/kronehit-dance.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Life Radio" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/liferadio.png" group-title="Österreich",Life Radio
+http://liferadio.stream.kapper.net:8000/liferadio
+#EXTINF:-1 tvg-id="" tvg-name="Ö1" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/oe1.png" group-title="Österreich",Ö1
+http://mp3stream3.apasf.apa.at:8000/
+#EXTINF:-1 tvg-id="" tvg-name="Ö1 Campus" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/oe1.png" group-title="Österreich",Ö1 Campus
+http://mp3stream4.apasf.apa.at:8000/
+#EXTINF:-1 tvg-id="" tvg-name="Radio Niederösterreich" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radioniederoesterreich.png" group-title="Österreich",Radio Niederösterreich
+http://mp3stream8.apasf.apa.at:8000/
+#EXTINF:-1 tvg-id="" tvg-name="Radio Steiermark" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiosteiermark.png" group-title="Österreich",Radio Steiermark
+http://mp3stream9.apasf.apa.at:8000/
+#EXTINF:-1 tvg-id="" tvg-name="Radio Tirol" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiotirol.png" group-title="Österreich",Radio Tirol
+http://mp3stream10.apasf.apa.at:8000/
+#EXTINF:-1 tvg-id="" tvg-name="Radio Wien" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiowien.png" group-title="Österreich",Radio Wien
+http://mp3stream2.apasf.apa.at:8000/
+#EXTINF:-1 tvg-id="" tvg-name="Radio SRF 1" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiosrf1.png" group-title="Schweiz",Radio SRF 1
+http://stream.srg-ssr.ch/m/drs1/mp3_128
+#EXTINF:-1 tvg-id="" tvg-name="Radio SRF 2 Kultur" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiosrf2kultur.png" group-title="Schweiz",Radio SRF 2 Kultur
+http://stream.srg-ssr.ch/m/drs2/mp3_128
+#EXTINF:-1 tvg-id="" tvg-name="Radio SRF 3" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiosrf3.png" group-title="Schweiz",Radio SRF 3
+http://stream.srg-ssr.ch/m/drs3/mp3_128
+#EXTINF:-1 tvg-id="" tvg-name="Radio SRF 4 News" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiosrf4news.png" group-title="Schweiz",Radio SRF 4 News
+http://stream.srg-ssr.ch/m/drs4news/mp3_128
+#EXTINF:-1 tvg-id="" tvg-name="Radio SRF Musikwelle" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiosrfmusikwelle.png" group-title="Schweiz",Radio SRF Musikwelle
+http://stream.srg-ssr.ch/m/drsmw/mp3_128
+#EXTINF:-1 tvg-id="" tvg-name="Radio SRF Virus" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiosrfvirus.png" group-title="Schweiz",Radio SRF Virus
+http://stream.srg-ssr.ch/m/drsvirus/mp3_128
+#EXTINF:-1 tvg-id="" tvg-name="BBC Asian Network" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bbcasiannetwork.png" group-title="Großbritannien",BBC Asian Network
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 1" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bbcradio1.png" group-title="Großbritannien",BBC Radio 1
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 1Xtra" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bbcradio1xtra.png" group-title="Großbritannien",BBC Radio 1Xtra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 2" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bbcradio2.png" group-title="Großbritannien",BBC Radio 2
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 3" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bbcradio3.png" group-title="Großbritannien",BBC Radio 3
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 4" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bbcradio4.png" group-title="Großbritannien",BBC Radio 4
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 4 Extra" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bbcradio4extra.png" group-title="Großbritannien",BBC Radio 4 Extra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 5 Live" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bbcradio5live.png" group-title="Großbritannien",BBC Radio 5 Live
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 6 Music" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bbcradio6music.png" group-title="Großbritannien",BBC Radio 6 Music
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio Cymru" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bbcradiocymru.png" group-title="Großbritannien",BBC Radio Cymru
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_cymru_mf_p
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio Foyle" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bbcradiofoyle.png" group-title="Großbritannien",BBC Radio Foyle
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_foyle_mf_p
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio nan Gàidheal" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bbcradionangaidheal.png" group-title="Großbritannien",BBC Radio nan Gàidheal
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_nangaidheal_mf_p
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio Scotland" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bbcradioscotland.png" group-title="Großbritannien",BBC Radio Scotland
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio Ulster" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bbcradioulster.png" group-title="Großbritannien",BBC Radio Ulster
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio Wales" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bbcradiowales.png" group-title="Großbritannien",BBC Radio Wales
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_walesmw_mf_p
+#EXTINF:-1 tvg-id="" tvg-name="BBC World Service" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/bbcworldservice.png" group-title="Großbritannien",BBC World Service
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
+#EXTINF:-1 tvg-id="" tvg-name="Mouv'" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/mouv.png" group-title="Frankreich",Mouv'
+http://direct.mouv.fr/live/mouv-midfi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nova" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radionova.png" group-title="Frankreich",Radio Nova
+http://broadcast.infomaniak.net/radionova-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="HitRadio Veronica" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/hitradioveronica.png" group-title="Niederlande",HitRadio Veronica
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio 538" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radio538.png" group-title="Niederlande",Radio 538
+http://vip-icecast.538.lw.triple-it.nl/RADIO538_MP3
+#EXTINF:-1 tvg-id="" tvg-name="Radio 538 Dance Radio" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radio538.png" group-title="Niederlande",Radio 538 Dance Radio
+http://vip-icecast.538.lw.triple-it.nl/WEB10_MP3
+#EXTINF:-1 tvg-id="" tvg-name="Radio 538 Dance Department" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radio538.png" group-title="Niederlande",Radio 538 Dance Department
+http://vip-icecast.538.lw.triple-it.nl/WEB01_MP3
+#EXTINF:-1 tvg-id="" tvg-name="Radio 538 Global Dance Chart" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radio538.png" group-title="Niederlande",Radio 538 Global Dance Chart
+http://vip-icecast.538.lw.triple-it.nl/WEB05_MP3
+#EXTINF:-1 tvg-id="" tvg-name="Radio 538 Hitzone" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radio538.png" group-title="Niederlande",Radio 538 Hitzone
+http://vip-icecast.538.lw.triple-it.nl/WEB11_MP3
+#EXTINF:-1 tvg-id="" tvg-name="Radio 538 Ibiza" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radio538.png" group-title="Niederlande",Radio 538 Ibiza
+http://vip-icecast.538.lw.triple-it.nl/WEB19_MP3
+#EXTINF:-1 tvg-id="" tvg-name="Radio 538 Non-Stop" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radio538.png" group-title="Niederlande",Radio 538 Non-Stop
+http://vip-icecast.538.lw.triple-it.nl/WEB09_MP3
+#EXTINF:-1 tvg-id="" tvg-name="Radio 538 Party" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radio538.png" group-title="Niederlande",Radio 538 Party
+http://vip-icecast.538.lw.triple-it.nl/WEB16_MP3
+#EXTINF:-1 tvg-id="" tvg-name="Radio 538 Top 40 Radio" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radio538.png" group-title="Niederlande",Radio 538 Top 40 Radio
+http://vip-icecast.538.lw.triple-it.nl/WEB02_MP3
+#EXTINF:-1 tvg-id="" tvg-name="Radio 538 Verrückte Stunde" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radio538.png" group-title="Niederlande",Radio 538 Verrückte Stunde
+http://vip-icecast.538.lw.triple-it.nl/WEB21_MP3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Veronica" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radioveronica.png" group-title="Niederlande",Radio Veronica
+http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Sky Radio 101 FM" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/skyradio101fm.png" group-title="Niederlande",Sky Radio 101 FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Planeta FM" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/planetafm.png" group-title="Polen",Planeta FM
+http://pla01.cdn.eurozet.pl:8700/pla-net.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Planeta FM Dope Hits" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/planetafm.png" group-title="Polen",Planeta FM Dope Hits
+http://pla02.cdn.eurozet.pl:8208/PLAHOU.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Planeta FM Electronic Wave" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/planetafm.png" group-title="Polen",Planeta FM Electronic Wave
+http://pla02.cdn.eurozet.pl:8228/PLAEDM.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Planeta FM Good Vibes" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/planetafm.png" group-title="Polen",Planeta FM Good Vibes
+http://pla01.cdn.eurozet.pl:8204/PLACHI.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Planeta FM Indie Day Mood" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/planetafm.png" group-title="Polen",Planeta FM Indie Day Mood
+http://pla02.cdn.eurozet.pl:8230/PLAIDM.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio ZET" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiozet.png" group-title="Polen",Radio ZET
+http://n-4-14.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
+#EXTINF:-1 tvg-id="" tvg-name="Radio ZET 2000" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiozet.png" group-title="Polen",Radio ZET 2000
+http://zet.cdn.eurozet.pl/ZET200.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio ZET 80" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiozet.png" group-title="Polen",Radio ZET 80
+http://zet.cdn.eurozet.pl/ZET080.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio ZET 90" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiozet.png" group-title="Polen",Radio ZET 90
+http://zet.cdn.eurozet.pl/ZET090.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio ZET Dance" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiozet.png" group-title="Polen",Radio ZET Dance
+http://zet.cdn.eurozet.pl/ZETDAN.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio ZET Hits" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiozet.png" group-title="Polen",Radio ZET Hits
+http://zet.cdn.eurozet.pl/ZETHIT.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio ZET Hot" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiozet.png" group-title="Polen",Radio ZET Hot
+http://zet.cdn.eurozet.pl/ZETHOT.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio ZET Party" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiozet.png" group-title="Polen",Radio ZET Party
+http://zet.cdn.eurozet.pl/ZETPAR.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio ZET PL" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiozet.png" group-title="Polen",Radio ZET PL
+http://zet.cdn.eurozet.pl/ZETPL1.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio ZET Rock" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/radiozet.png" group-title="Polen",Radio ZET Rock
+http://zet.cdn.eurozet.pl/ZETROK.mp3
+#EXTINF:-1 tvg-id="" tvg-name="RMF FM" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/radio/rmffm.png" group-title="Polen",RMF FM
+http://195.150.20.243/RMFFM48
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/dh4rry/kodiAddons/master/plugin.video.7tv_live/resources/Pro7.png" group-title="Vollprogramm",Pro7
+http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=Pro7
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/dh4rry/kodiAddons/master/plugin.video.7tv_live/resources/Kabel1.png" group-title="Vollprogramm",Kabel1
+http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=Kabel1
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/dh4rry/kodiAddons/master/plugin.video.7tv_live/resources/SAT1.png" group-title="Vollprogramm",SAT1
+http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=SAT1
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/dh4rry/kodiAddons/master/plugin.video.7tv_live/resources/SIXX.png" group-title="Filme / Serien",Sixx
+http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=SIXX
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/dh4rry/kodiAddons/master/plugin.video.7tv_live/resources/prosiebenmaxx" group-title="Nachrichten;Dokumentationen",7MAXX
+http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=prosiebenmaxx
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/dh4rry/kodiAddons/master/plugin.video.7tv_live/resources/Kabel1Doku.png" group-title="Dokumentationen",Kabel1 Doku
+http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=Kabel1Doku
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/dh4rry/kodiAddons/master/plugin.video.7tv_live/resources/SAT1Gold.png" group-title="",SAT1 Gold
+http://localhost:60666/?plugin://plugin.video.7tv_live/?channel=SAT1Gold
+#EXTINF:-1 tvg-id="xGirlz PixXx" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/EmuZONE/IPTV/master/logos/tv/xGirlz.png" group-title="",xGirlz PixXx
+http://clientportal.link:8080/live/ollie/1234/1650.m3u8
