@@ -1,1 +1,186 @@
-
+ 
+          <item> 
+            <title>DE: ZDF HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3514.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF HD</link> 
+        </item> 
+          <item> 
+            <title>DE: WDR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/4961.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: WDR</link> 
+        </item> 
+          <item> 
+            <title>DE: RTL NITRO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3534.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL NITRO HD</link> 
+        </item> 
+          <item> 
+            <title>DE: RTL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3516.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL HD</link> 
+        </item> 
+          <item> 
+            <title>DE: VOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3753.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX HD</link> 
+        </item> 
+          <item> 
+            <title>DE: SAT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3515.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SAT 1 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: PRO 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3518.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: PRO 7 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: KABEL 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3532.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KABEL 1 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: SRF 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3582.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SRF 1</link> 
+        </item> 
+          <item> 
+            <title>DE: SRF 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3583.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SRF 2</link> 
+        </item> 
+          <item> 
+            <title>DE: NAT GEO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3585.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NAT GEO HD</link> 
+        </item> 
+          <item> 
+            <title>DE: NAT GEO WILD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3570.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NAT GEO WILD HD</link> 
+        </item> 
+          <item> 
+            <title>DE: SKY KRIMI SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/8073.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY KRIMI SD</link> 
+        </item> 
+          <item> 
+            <title>DE: SIXX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/4955.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SIXX HD</link> 
+        </item> 
+          <item> 
+            <title>DE: CARTOON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/8538.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: CARTOON NETWORK</link> 
+        </item> 
+          <item> 
+            <title>DE: COMEDY CENTRAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3744.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: COMEDY CENTRAL HD</link> 
+        </item> 
+          <item> 
+            <title>DE: DISCOVERY SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/8087.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DISCOVERY SD</link> 
+        </item> 
+          <item> 
+            <title>DE: EUROSPORT 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/5033.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: EUROSPORT 2 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: SILVERLINE TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3749.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SILVERLINE TV HD</link> 
+        </item> 
+          <item> 
+            <title>DE: PRO7 MAXX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3568.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: PRO7 MAXX</link> 
+        </item> 
+          <item> 
+            <title>DE: PHOENIX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3575.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: PHOENIX HD</link> 
+        </item> 
+          <item> 
+            <title>DE: ORF 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/4717.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 3</link> 
+        </item> 
+          <item> 
+            <title>DE: ORF 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/4716.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 2</link> 
+        </item> 
+          <item> 
+            <title>DE: ORF 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3581.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 1 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: N-TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3584.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N-TV HD</link> 
+        </item> 
+          <item> 
+            <title>DE: KIKA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3538.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KIKA HD</link> 
+        </item> 
+          <item> 
+            <title>DE: TLC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/5269.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TLC HD</link> 
+        </item> 
+          <item> 
+            <title>DE: SPIEGEL GESCHICHTE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3756.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SPIEGEL GESCHICHTE HD</link> 
+        </item> 
+          <item> 
+            <title>DE: SKY SPORT AUSTRIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3748.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORT AUSTRIA HD</link> 
+        </item> 
+          <item> 
+            <title>DE: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3754.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: FOX HD</link> 
+        </item> 
+          <item> 
+            <title>DE: CLASSICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3755.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: CLASSICA</link> 
+        </item> 
+          <item> 
+            <title>DE: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3531.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: FOX HD</link> 
+        </item> 
+          <item> 
+            <title>DE: NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/4359.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>DE: DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/4361.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DISNEY XD</link> 
+        </item> 
+          <item> 
+            <title>DE: DISNEY CINEMAGIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3539.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DISNEY CINEMAGIC HD</link> 
+        </item> 
+          <item> 
+            <title>DE: DMAX SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/5151.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DMAX SD</link> 
+        </item> 
+          <item> 
+            <title>DE: ARTE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3566.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ARTE HD</link> 
+        </item> 
+          <item> 
+            <title>DE: 3 SAT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3576.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 3 SAT HD</link> 
+        </item> 
+          <item> 
+            <title>DE: SKY 13TH STREET HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/4641.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY 13TH STREET HD</link> 
+        </item> 
+          <item> 
+            <title>DE: EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3644.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: EURONEWS</link> 
+        </item> 
+          <item> 
+            <title>DE: N24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3540.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N24 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: DISCOVERY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3542.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DISCOVERY HD</link> 
+        </item> 
+          <item> 
+            <title>DE: SKY SPORT NEWS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3543.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORT NEWS HD</link> 
+        </item> 
+          <item> 
+            <title>DE: HEIMATKANAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/4718.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: HEIMATKANAL HD</link> 
+        </item> 
+          <item> 
+            <title>DE: DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3577.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>DE: EUROSPORT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3580.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: EUROSPORT 1 HD</link> 
+        </item> 
+  
