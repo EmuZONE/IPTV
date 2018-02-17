@@ -3,11 +3,11 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.23930"/>
         <meta name="ItemCount" content="1"/>
-        <title>Ultima Thule For Fäderneslandet</title>
+        <title></title>
     </head>
     <body>
         <seq>
-            <media src="001.mp3"/>
+            <media src="http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/index_3096_av-p.m3u8"/>
         </seq>
     </body>
 </smil>
